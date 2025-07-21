@@ -1,0 +1,10475 @@
+# File 0
+
+êúô0(äñ)
+êúô1()
+êúô2(ñ)
+
+í3
+í4
+í5
+í6
+í7
+í8
+í9
+í10
+í11
+í12
+í13
+í14
+í15
+Cure3
+Bolt3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ENCOUNT ERROR
+If you found this message
+then please call staff
+monster“Not a probrem”
+monster“I'm sorry”
+monster“That's too bad”
+------------------------------
+# File 1
+
+êúô4(ëöù)
+êúô5(áñô)
+êúô6(ñâ)
+
+í3
+í4
+í5
+í6
+í7
+í8
+í9
+í10
+í11
+í12
+í13
+í14
+í15
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 2
+
+êúô0(äñ)
+êúô2(ñ)
+êúô4(ëöù)
+
+í3
+í4
+í5
+í6
+í7
+í8
+í9
+í10
+í11
+í12
+í13
+í14
+í15
+Cure3
+Bolt3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ENCOUNT ERROR
+If you found this message
+then please call staff
+monster“Not a probrem”
+monster“I'm sorry”
+monster“That's too bad”
+------------------------------
+# File 3
+
+êúô7(úñA)
+êúô8(úñB)
+êúô9(úñC)
+
+í3
+í4
+í5
+í6
+í7
+í8
+í9
+í10
+í11
+í12
+í13
+í14
+í15
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 5
+
+êúô0(äñ)
+Mighty Grunt 
+Mighty Grunt 
+
+í3
+í4
+í5
+í6
+í7
+í8
+í9
+í10
+í11
+í12
+í13
+í14
+í15
+Machine Gun
+Double Shot
+Grunt Death
+Roller Dash
+Rollerspin
+Skating
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ENCOUNT ERROR
+If you found this message
+then please call staff
+monster“Not a probrem”
+monster“I'm sorry”
+monster“That's too bad”
+------------------------------
+# File 6
+
+êúô0(äñ)
+êúô1()
+Adamantaimai
+
+í3
+í4
+í5
+í6
+í7
+í8
+í9
+í10
+í11
+í12
+í13
+í14
+í15
+Light Shell
+Death Force
+Barrier
+MBarrier
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ENCOUNT ERROR
+If you found this message
+then please call staff
+monster“Not a probrem”
+monster“I'm sorry”
+monster“That's too bad”
+------------------------------
+# File 7
+
+Grunt 
+
+
+
+Handclaw
+Beam Gun
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 8
+
+Devil Ride 
+Custom Sweeper 
+Kalm Fang 
+
+Wheelie
+Drift Turn
+W Machine Gun
+Smoke Shot
+Matra Magic
+Fang
+Bodyblow
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 9
+
+Custom Sweeper 
+Kalm Fang 
+Prowler 
+
+W Machine Gun
+Smoke Shot
+Matra Magic
+Fang
+Bodyblow
+Hit
+Steal
+Grind
+Seize
+Escape
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 10
+
+Devil Ride 
+Kalm Fang 
+Prowler 
+
+Wheelie
+Drift Turn
+Fang
+Bodyblow
+Hit
+Steal
+Grind
+Seize
+Escape
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 11
+
+Kalm Fang 
+Prowler 
+
+
+Fang
+Bodyblow
+Hit
+Steal
+Grind
+Seize
+Escape
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 12
+
+Mu 
+
+Levrikon 
+
+Rock Toss
+Sewer
+Sinking
+Hot Springs
+L4 Suicide
+Bird Kick
+Flaming Peck
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A Chocobo!
+Caught a Chocobo.
+------------------------------
+# File 13
+
+Elfadunk 
+Mandragora 
+Levrikon 
+
+Bodyblow
+Shower
+Grass Punch
+Slow Dance
+Bird Kick
+Flaming Peck
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A Chocobo!
+Caught a Chocobo.
+A Chocobo!
+Caught a Chocobo.
+A Chocobo!
+Caught a Chocobo.
+------------------------------
+# File 14
+
+Mandragora 
+Levrikon 
+Chocobo
+
+Grass Punch
+Slow Dance
+Bird Kick
+Flaming Peck
+Chocobo, goes nuts
+Chocobuckle
+Taking Bait
+Escape
+Chocobo, goes nuts
+Finished Bait
+Escape
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A Chocobo!
+Caught a Chocobo.
+A Chocobo!
+Caught a Chocobo.
+Chocobo “Wark! Wark!”
+Caught a Chocobo.
+Chocobo “Wark……kkk!”
+Chocobo “Wark! Wark!”
+Chocobo “Wark! Wark!”
+Chocobo “Warrrrk!”
+Chocobo “Wark! Wark!”
+------------------------------
+# File 15
+
+Elfadunk 
+Levrikon 
+Chocobo
+
+Bodyblow
+Shower
+Bird Kick
+Flaming Peck
+Chocobo, goes nuts
+Chocobuckle
+Taking Bait
+Escape
+Chocobo, goes nuts
+Finished Bait
+Escape
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A Chocobo!
+Caught a Chocobo.
+A Chocobo!
+Caught a Chocobo.
+Chocobo “Wark! Wark!”
+Caught a Chocobo.
+Chocobo “Wark……kkk!”
+Chocobo “Wark! Wark!”
+Chocobo “Wark! Wark!”
+Chocobo “Warrrrk!”
+Chocobo “Wark! Wark!”
+------------------------------
+# File 16
+
+Zemzelett 
+Nerosuferoth 
+Formula 
+
+Flap
+Thunderbolt
+
+Flap
+Thunderbolt
+White Wind
+
+Beak
+Heatwing
+Air Bomber
+Blue Impulse
+Cross Impulse
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A Chocobo!
+Caught a Chocobo.
+------------------------------
+# File 17
+
+Nerosuferoth 
+Hell Rider VR2 
+Formula 
+
+Beak
+Heatwing
+Iron Mallet
+Electromag
+Ballistic
+Air Bomber
+Blue Impulse
+Cross Impulse
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A Chocobo!
+Caught a Chocobo.
+------------------------------
+# File 18
+
+Zemzelett 
+Formula 
+Capparwire 
+
+Flap
+Thunderbolt
+
+Flap
+Thunderbolt
+White Wind
+
+Air Bomber
+Blue Impulse
+Cross Impulse
+Wire Attack
+Grand Spark
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A Chocobo!
+Caught a Chocobo.
+------------------------------
+# File 19
+
+Capparwire 
+Chocobo
+
+
+Wire Attack
+Grand Spark
+Chocobo, goes nuts
+Chocobuckle
+Taking Bait
+Escape
+Chocobo, goes nuts
+Finished Bait
+Escape
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A Chocobo!
+Caught a Chocobo.
+Chocobo “Wark! Wark!”
+Caught a Chocobo.
+Chocobo “Wark……kkk!”
+Chocobo “Wark! Wark!”
+Chocobo “Wark! Wark!”
+Chocobo “Warrrrk!”
+Chocobo “Wark! Wark!”
+------------------------------
+# File 20
+
+Nerosuferoth 
+Capparwire 
+Chocobo
+
+Beak
+Heatwing
+Wire Attack
+Grand Spark
+Chocobo, goes nuts
+Chocobuckle
+Taking Bait
+Escape
+Chocobo, goes nuts
+Finished Bait
+Escape
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A Chocobo!
+Caught a Chocobo.
+A Chocobo!
+Caught a Chocobo.
+Chocobo “Wark! Wark!”
+Caught a Chocobo.
+Chocobo “Wark……kkk!”
+Chocobo “Wark! Wark!”
+Chocobo “Wark! Wark!”
+Chocobo “Warrrrk!”
+Chocobo “Wark! Wark!”
+------------------------------
+# File 21
+
+Grangalan
+Grangalan Jr.
+Grangalan Jr.Jr. 
+
+Darkeye
+Silver Wheel
+Silver Wheel
+Put out
+Vanish
+Triclops
+Stop Eye
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 22
+
+Needle Kiss 
+Cokatolis 
+
+
+Chute Attack
+Thunder Kiss
+Beak
+Bird Kick
+Petrify Smog
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 23
+
+Beachplug 
+Spencer 
+
+
+Bite
+Big Guard
+Ice
+Swordblade
+Upper Cutter
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A Chocobo!
+Caught a Chocobo.
+------------------------------
+# File 24
+
+Spencer 
+Flapbeat 
+Chocobo
+
+Swordblade
+Upper Cutter
+Tailbeat
+Flying Sickle
+Chocobo, goes nuts
+Chocobuckle
+Taking Bait
+Escape
+Chocobo, goes nuts
+Finished Bait
+Escape
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A Chocobo!
+Caught a Chocobo.
+A Chocobo!
+Caught a Chocobo.
+Chocobo “Wark! Wark!”
+Caught a Chocobo.
+Chocobo “Wark……kkk!”
+Chocobo “Wark! Wark!”
+Chocobo “Wark! Wark!”
+Chocobo “Warrrrk!”
+Chocobo “Wark! Wark!”
+------------------------------
+# File 25
+
+Joker 
+Flapbeat 
+Harpy 
+
+Spinning Card
+Spade
+Heart
+Club
+Diamond
+Joker
+Tailbeat
+Flying Sickle
+Claw
+Poison Storm
+Aqualung
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A Chocobo!
+Caught a Chocobo.
+A Chocobo!
+Caught a Chocobo.
+------------------------------
+# File 26
+
+Flapbeat 
+Harpy 
+Chocobo
+
+Tailbeat
+Flying Sickle
+Claw
+Poison Storm
+Aqualung
+Chocobo, goes nuts
+Chocobuckle
+Taking Bait
+Escape
+Chocobo, goes nuts
+Finished Bait
+Escape
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A Chocobo!
+Caught a Chocobo.
+A Chocobo!
+Caught a Chocobo.
+Chocobo “Wark! Wark!”
+Caught a Chocobo.
+Chocobo “Wark……kkk!”
+Chocobo “Wark! Wark!”
+Chocobo “Wark! Wark!”
+Chocobo “Warrrrk!”
+Chocobo “Wark! Wark!”
+------------------------------
+# File 27
+
+Grand Horn 
+Gagighandi 
+
+
+Punch
+Grand Punch
+Claw
+Stone Stare
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 28
+
+Gagighandi 
+Touch Me 
+
+
+Claw
+Stone Stare
+Frog Jab
+Frog Song
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 29
+
+Spencer 
+Flapbeat 
+Touch Me 
+
+Swordblade
+Upper Cutter
+Tailbeat
+Flying Sickle
+Frog Jab
+Frog Song
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A Chocobo!
+Caught a Chocobo.
+A Chocobo!
+Caught a Chocobo.
+------------------------------
+# File 30
+
+Griffin 
+Bagrisk 
+Desert Sahagin 
+
+Claw
+Peacock
+
+Claw
+Peacock
+
+Tail
+Stone Strike
+Quake2
+Harpoon
+Sandgun
+Shell Defense
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 31
+
+Skeeskee 
+Griffin 
+Golem 
+
+Beak
+Rage Bomber
+Claw
+Peacock
+
+Claw
+Peacock
+
+Golem Punch
+Finger Shot
+Megaton Punch
+Advance
+Retreat
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 32
+
+Skeeskee 
+Desert Sahagin 
+
+
+Beak
+Rage Bomber
+Harpoon
+Sandgun
+Shell Defense
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 33
+
+Crown Lance 
+Skeeskee 
+Desert Sahagin 
+
+Claw
+Sleepel
+Bolt
+Deadly Needles
+Advance
+Retreat
+Beak
+Rage Bomber
+Harpoon
+Sandgun
+Shell Defense
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 34
+
+Crown Lance 
+
+
+
+Claw
+Sleepel
+Bolt
+Deadly Needles
+Advance
+Retreat
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 35
+
+Nibel Wolf 
+Valron 
+
+
+Bodyblow
+Fang
+Howling
+Howling
+Speed Punch
+Jump Kick
+Dive Kick
+DeSpell
+MBarrier
+Demi3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A Chocobo!
+Caught a Chocobo.
+------------------------------
+# File 36
+
+Bahba Velamyu 
+Valron 
+Battery Cap 
+
+Bonecutter
+Jumping Cutter
+Magic Cutter
+Silence
+Slow
+Speed Punch
+Jump Kick
+Dive Kick
+DeSpell
+MBarrier
+Demi3
+Seed Shot
+Four Laser
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A Chocobo!
+Caught a Chocobo.
+------------------------------
+# File 37
+
+Nibel Wolf 
+Velcher Task 
+
+
+Bodyblow
+Fang
+Howling
+Howling
+Claw
+Poison Blow
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A Chocobo!
+Caught a Chocobo.
+------------------------------
+# File 38
+
+Valron 
+Kyuvilduns 
+Chocobo
+
+Speed Punch
+Jump Kick
+Dive Kick
+DeSpell
+MBarrier
+Demi3
+Lay Flat
+Chocobo, goes nuts
+Chocobuckle
+Taking Bait
+Escape
+Chocobo, goes nuts
+Finished Bait
+Escape
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A Chocobo!
+Caught a Chocobo.
+A Chocobo!
+Caught a Chocobo.
+Chocobo “Wark! Wark!”
+Caught a Chocobo.
+Chocobo “Wark……kkk!”
+Chocobo “Wark! Wark!”
+Chocobo “Wark! Wark!”
+Chocobo “Warrrrk!”
+Chocobo “Wark! Wark!”
+------------------------------
+# File 39
+
+Velcher Task 
+Kyuvilduns 
+Chocobo
+
+Claw
+Poison Blow
+Lay Flat
+Chocobo, goes nuts
+Chocobuckle
+Taking Bait
+Escape
+Chocobo, goes nuts
+Finished Bait
+Escape
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A Chocobo!
+Caught a Chocobo.
+A Chocobo!
+Caught a Chocobo.
+Chocobo “Wark! Wark!”
+Caught a Chocobo.
+Chocobo “Wark……kkk!”
+Chocobo “Wark! Wark!”
+Chocobo “Wark! Wark!”
+Chocobo “Warrrrk!”
+Chocobo “Wark! Wark!”
+------------------------------
+# File 40
+
+Razor Weed 
+Tail Vault 
+Chocobo
+
+Glasscutter
+Spaz Voice
+Magic Hammer
+Bite
+Somersault
+Chocobo, goes nuts
+Chocobuckle
+Taking Bait
+Escape
+Chocobo, goes nuts
+Finished Bait
+Escape
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A Chocobo!
+Caught a Chocobo.
+A Chocobo!
+Caught a Chocobo.
+Chocobo “Wark! Wark!”
+Caught a Chocobo.
+Chocobo “Wark……kkk!”
+Chocobo “Wark! Wark!”
+Chocobo “Wark! Wark!”
+Chocobo “Warrrrk!”
+Chocobo “Wark! Wark!”
+------------------------------
+# File 41
+
+Edgehead 
+Tail Vault 
+Chocobo
+
+Scissors
+Electric Burst
+Bite
+Somersault
+Chocobo, goes nuts
+Chocobuckle
+Taking Bait
+Escape
+Chocobo, goes nuts
+Finished Bait
+Escape
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A Chocobo!
+Caught a Chocobo.
+Chocobo “Wark! Wark!”
+Caught a Chocobo.
+Chocobo “Wark……kkk!”
+Chocobo “Wark! Wark!”
+Chocobo “Wark! Wark!”
+Chocobo “Warrrrk!”
+Chocobo “Wark! Wark!”
+------------------------------
+# File 42
+
+Thunderbird 
+Bizarre Bug 
+Tail Vault 
+
+Stab
+Lightning
+Bodyblow
+
+Scorpion Attack
+Toxic Powder
+
+Bite
+Somersault
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A Chocobo!
+Caught a Chocobo.
+------------------------------
+# File 43
+
+Thunderbird 
+Bizarre Bug 
+Tail Vault 
+
+Stab
+Lightning
+Bodyblow
+
+Scorpion Attack
+Toxic Powder
+
+Bite
+Somersault
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A Chocobo!
+Caught a Chocobo.
+------------------------------
+# File 44
+
+Bizarre Bug 
+Tail Vault 
+Adamantaimai
+
+Bodyblow
+
+Scorpion Attack
+Toxic Powder
+
+Bite
+Somersault
+Light Shell
+Death Force
+Barrier
+MBarrier
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A Chocobo!
+Caught a Chocobo.
+------------------------------
+# File 45
+
+Under Lizard 
+Dual Horn 
+
+
+Bodyblow
+Petrified Frog
+Angle Punch
+Horn Lift
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 46
+
+Under Lizard 
+Tonadu 
+
+
+Bodyblow
+Petrified Frog
+Claw
+Great Gale
+Big Sound
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 47
+
+Slaps 
+Kelzmelzer 
+
+
+Bug Needle
+Berserk Needle
+Paralyzer Needle
+Claw
+Liquid poison
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 48
+
+Vlakorados 
+Trickplay 
+
+
+Tail Attack
+Violent Advance
+Bolt Ball
+Rock Toss
+Magma
+Sewer
+Sinking
+Hot Springs
+Gold Mountain
+L4 Suicide
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 49
+
+Vlakorados 
+Bandersnatch 
+
+
+Tail Attack
+Violent Advance
+Bolt Ball
+Bodyblow
+Bite
+Howling
+Howling
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A Chocobo!
+Caught a Chocobo.
+------------------------------
+# File 50
+
+Jumping 
+Chocobo
+
+
+Dive Kick
+Club Sword
+Chocobo, goes nuts
+Chocobuckle
+Taking Bait
+Escape
+Chocobo, goes nuts
+Finished Bait
+Escape
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A Chocobo!
+Caught a Chocobo.
+Chocobo “Wark! Wark!”
+Caught a Chocobo.
+Chocobo “Wark……kkk!”
+Chocobo “Wark! Wark!”
+Chocobo “Wark! Wark!”
+Chocobo “Warrrrk!”
+Chocobo “Wark! Wark!”
+------------------------------
+# File 51
+
+Jumping 
+Bandersnatch 
+Chocobo
+
+Dive Kick
+Club Sword
+Bodyblow
+Bite
+Howling
+Howling
+Chocobo, goes nuts
+Chocobuckle
+Taking Bait
+Escape
+Chocobo, goes nuts
+Finished Bait
+Escape
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A Chocobo!
+Caught a Chocobo.
+A Chocobo!
+Caught a Chocobo.
+Chocobo “Wark! Wark!”
+Caught a Chocobo.
+Chocobo “Wark……kkk!”
+Chocobo “Wark! Wark!”
+Chocobo “Wark! Wark!”
+Chocobo “Warrrrk!”
+Chocobo “Wark! Wark!”
+------------------------------
+# File 52
+
+Ice Golem 
+Lessaloploth 
+Jumping 
+
+Golem Punch
+Cold Snap
+Wide Grazer
+Megaton Punch
+Advance
+Retreat
+Defense Start
+Defense Down
+Advance
+Retreat
+Wing Cut
+Scorpion's Tail
+Snowstorm
+Avalanche
+Dive Kick
+Club Sword
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A Chocobo!
+Caught a Chocobo.
+------------------------------
+# File 53
+
+Hippogriff 
+Spiral 
+Chocobo
+
+Beak
+???
+L2 Confu
+
+Beak
+???
+
+Angle Punch
+Spin
+Chocobo, goes nuts
+Chocobuckle
+Taking Bait
+Escape
+Chocobo, goes nuts
+Finished Bait
+Escape
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A Chocobo!
+Caught a Chocobo.
+Chocobo “Wark! Wark!”
+Caught a Chocobo.
+Chocobo “Wark……kkk!”
+Chocobo “Wark! Wark!”
+Chocobo “Wark! Wark!”
+Chocobo “Warrrrk!”
+Chocobo “Wark! Wark!”
+------------------------------
+# File 54
+
+Head Hunter 
+Chocobo
+
+
+Sickle
+Rising Dagger
+Chocobo, goes nuts
+Chocobuckle
+Taking Bait
+Escape
+Chocobo, goes nuts
+Finished Bait
+Escape
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A Chocobo!
+Caught a Chocobo.
+Chocobo “Wark! Wark!”
+Caught a Chocobo.
+Chocobo “Wark……kkk!”
+Chocobo “Wark! Wark!”
+Chocobo “Wark! Wark!”
+Chocobo “Warrrrk!”
+Chocobo “Wark! Wark!”
+------------------------------
+# File 55
+
+Hippogriff 
+Spiral 
+
+
+Beak
+???
+L2 Confu
+
+Beak
+???
+
+Angle Punch
+Spin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A Chocobo!
+Caught a Chocobo.
+------------------------------
+# File 56
+
+Head Hunter 
+Crysales 
+Sea Worm
+
+Sickle
+Rising Dagger
+Bite
+Sleep Scales
+Earthquake
+Sandstorm
+Crush
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A Chocobo!
+Caught a Chocobo.
+------------------------------
+# File 57
+
+Under Lizard 
+Dual Horn 
+Cactuer 
+
+Bodyblow
+Petrified Frog
+Angle Punch
+Horn Lift
+
+Mystery Kick
+1000 Needles
+Dodge
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 58
+
+Tonadu 
+Sea Worm
+Goblin 
+
+Claw
+Great Gale
+Big Sound
+Earthquake
+Sandstorm
+Crush
+Fight
+Goblin Punch
+Sleepel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 59
+
+Goblin 
+
+
+
+Fight
+Goblin Punch
+Sleepel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 60
+
+Goblin 
+
+
+
+Fight
+Goblin Punch
+Sleepel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 61
+
+Desert Sahagin 
+
+
+
+Harpoon
+Sandgun
+Shell Defense
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 62
+
+Grunt 
+
+
+
+Handclaw
+Beam Gun
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 63
+
+Grunt 
+
+
+
+Handclaw
+Beam Gun
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 64
+
+Grunt 
+Cactuar 
+
+
+Handclaw
+Beam Gun
+Mystery Kick
+1000 Needles
+Dodge
+(Report)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 65
+
+Beachplug 
+
+
+
+Bite
+Big Guard
+Ice
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 66
+
+Grand Horn 
+
+
+
+Punch
+Grand Punch
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 67
+
+Mystery Ninja
+Mystery Ninja
+
+
+Fight
+Throw
+Spider Web
+Impaler
+Fire Fang
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 68
+
+Mystery Ninja
+Mystery Ninja
+
+
+Fight
+Throw
+Spider Web
+Fire Veil
+Leviathan Scales
+Swift Bolt
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 69
+
+Mystery Ninja
+Mystery Ninja
+
+
+Fight
+Throw
+Spider Web
+Fire Veil
+Leviathan Scales
+Swift Bolt
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 70
+
+Ultimate Weapon
+Ultimate Weapon
+Ultimate Weapon
+
+Claw
+Shadow Flare
+Quake2
+Ultima Beam
+(Report)
+Thunderball
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 71
+
+Ultimate Weapon
+Ultimate Weapon
+Ultimate Weapon
+
+Claw
+Shadow Flare
+Quake2
+Ultima Beam
+(Report)
+Thunderball
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 72
+
+CMD.Grand Horn 
+CMD.Grand Horn 
+CMD.Grand Horn 
+
+Punch
+Poison Breath
+Grand Attack
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 73
+
+Dragon 
+Ultimate Weapon
+
+
+Dragon Fang
+Flame Thrower
+Claw
+Shadow Flare
+Quake2
+Ultima Beam
+(Report)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 74
+
+Capparwire 
+Mystery Ninja
+
+
+Wire Attack
+Grand Spark
+Fight
+Throw
+Spider Web
+Fire Veil
+Leviathan Scales
+Swift Bolt
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A Chocobo!
+Caught a Chocobo.
+------------------------------
+# File 75
+
+MP 
+Guard Hound 
+
+
+Machine Gun
+Tonfa
+Bite
+Tentacle
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 76
+
+MP 
+Guard Hound 
+Mono Drive 
+
+Machine Gun
+Tonfa
+Bite
+Tentacle
+Drilldrive
+Fire
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Enemy Sighted!
+Warning! Warning!
+------------------------------
+# File 77
+
+Mono Drive 
+Grunt 
+1st Ray 
+
+Drilldrive
+Fire
+Handclaw
+Beam Gun
+Laser Cannon
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Enemy Sighted!
+Warning! Warning!
+------------------------------
+# File 78
+
+Mono Drive 
+Grunt 
+1st Ray 
+
+Drilldrive
+Fire
+Handclaw
+Beam Gun
+Laser Cannon
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Enemy Sighted!
+Warning! Warning!
+------------------------------
+# File 79
+
+Mono Drive 
+Grunt 
+
+
+Drilldrive
+Fire
+Handclaw
+Beam Gun
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Enemy Sighted!
+Warning! Warning!
+------------------------------
+# File 80
+
+Grunt 
+Sweeper 
+
+
+Handclaw
+Beam Gun
+Machine Gun
+W Machine Gun
+Smoke Shot
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 81
+
+Guard Hound 
+Guard Scorpion
+Grashtrike 
+
+Bite
+Tentacle
+Rifle
+Scorpion Tail
+Search Scope
+Rifle
+Tail Laser
+
+
+Sickle
+Silk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Locked On Target
+{NAME 0} “It's gonna fire that laser…”
+{NAME 0} “{NAME 1}, be careful!”
+“Attack while it's tail's up!
+It's gonna counterattack with its laser.”
+{NAME 1} “I dunno what's goin' on, but…
+ it looks pretty bad.
+ Let's see what it does when it's tail's up…”
+------------------------------
+# File 82
+
+MP 
+Chuse Tank 
+
+
+Machine Gun
+Tonfa
+Claw
+Rolling Claw
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 83
+
+Grashtrike 
+Rocket Launcher 
+
+
+Sickle
+Silk
+Rocket Launcher
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 84
+
+Grashtrike 
+Chuse Tank 
+
+
+Sickle
+Silk
+Claw
+Rolling Claw
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 85
+
+Rocket Launcher 
+Chuse Tank 
+Blugu 
+
+Rocket Launcher
+Claw
+Rolling Claw
+Bodyblow
+Hell Bubbles
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 86
+
+Special Combatant 
+Blood Taste 
+Proto Machinegun 
+
+Handclaw
+Beam Gun
+Wave
+Bite
+Tentacle Drain
+Machine Gun
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 87
+
+Special Combatant 
+Blood Taste 
+Proto Machinegun 
+
+Handclaw
+Beam Gun
+Wave
+Bite
+Tentacle Drain
+Machine Gun
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 88
+
+Smogger 
+Special Combatant 
+Proto Machinegun 
+
+Punch
+Smog
+Smog
+Handclaw
+Beam Gun
+Wave
+Machine Gun
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 89
+
+Smogger 
+Blood Taste 
+Proto Machinegun 
+
+Punch
+Smog
+Smog
+Bite
+Tentacle Drain
+Machine Gun
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 90
+
+Blugu 
+Special Combatant 
+Blood Taste 
+
+Bodyblow
+Hell Bubbles
+Handclaw
+Beam Gun
+Wave
+Bite
+Tentacle Drain
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 91
+
+Special Combatant 
+Air Buster 
+
+
+Handclaw
+Beam Gun
+Wave
+Rear Gun
+Rear Gun
+Destroyed
+Destroyed
+Bodyblow
+Big Bomber
+Energy Ball
+
+Bodyblow
+Big Bomber
+Energy Ball
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Program 1 Operation
+Big Bomber's out of ammo.
+Program 2 Operation
+Turn Function non-operational
+Counter Attack
+------------------------------
+# File 92
+
+Hedgehog Pie 
+
+
+
+Bodyblow
+Fire
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 93
+
+MP 
+Guard Hound 
+Smogger 
+
+Machine Gun
+Tonfa
+Bite
+Tentacle
+Punch
+Smog
+Smog
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 94
+
+Whole Eater 
+Hedgehog Pie 
+Vice 
+
+Sickle
+Bodyblow
+Fire
+Hit
+Steal
+Grind
+Seize
+Escape
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 95
+
+Whole Eater 
+Hell House
+Hell House
+
+Sickle
+Erupt
+Hell Bomber
+Suicide Drop
+Bodyblow
+Suicide Drop
+Lunattack
+Hell Press
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 96
+
+Corneo's Lackey 
+Scotch 
+Aps 
+
+Hit
+Machine Gun
+Tail Attack
+Lick
+Sewer Tsunami
+Sewer Tsunami
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 97
+
+Sahagin 
+Ceasar 
+
+
+Harpoon
+Water Gun
+Shell Defense
+Bodyblow
+Bubble
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 98
+
+Guard Hound 
+Mono Drive 
+Sweeper 
+
+Bite
+Tentacle
+Drilldrive
+Fire
+Machine Gun
+W Machine Gun
+Smoke Shot
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Enemy Sighted!
+Warning! Warning!
+------------------------------
+# File 99
+
+Ghost 
+Cripshay 
+Deenglow 
+
+Scratch
+Fire
+Drain
+Vanish
+Appear
+Scissors
+Dual Spike
+Wing Cutter
+Ice
+Demi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 100
+
+Eligor 
+Ghost 
+Deenglow 
+
+Sword Attack
+Mono Laser
+Silence
+Sleepel
+Scratch
+Fire
+Drain
+Vanish
+Appear
+Wing Cutter
+Ice
+Demi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 101
+
+Aero Combatant 
+Aero Combatant 
+
+
+Kick
+Propeller
+
+Propeller Sword
+Sword Rush
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 102
+
+Eligor 
+Aero Combatant 
+Aero Combatant 
+
+Sword Attack
+Mono Laser
+Silence
+Sleepel
+Kick
+Propeller
+
+Propeller Sword
+Sword Rush
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 103
+
+Turks:Reno
+Pyramid 
+Grenade Combatant 
+
+Short Staff
+Pyramid
+Pyramid
+Pyramid
+Pyramid Release
+Pyramid Release
+Pyramid Release
+Electro-mag Rod
+(Report)
+Appear
+Vanish
+Machine Gun
+Hand Grenade
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reno “Try and break it if you can.”
+Reno “It's time.”
+------------------------------
+# File 104
+
+Mighty Grunt 
+Mighty Grunt 
+Grenade Combatant 
+
+Machine Gun
+Double Shot
+Grunt Death
+Roller Dash
+Rollerspin
+Skating
+Hand Grenade
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 105
+
+Mighty Grunt 
+Mighty Grunt 
+
+
+Machine Gun
+Double Shot
+Grunt Death
+Roller Dash
+Rollerspin
+Skating
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 106
+
+Hammer Blaster 
+
+Sword Dance 
+
+Hammer Attack
+Muyddle Mallet
+Zip Hammer
+Zip Confu
+Appear
+Vanish
+Flying Hammer
+Flying Muddle
+Flying Zip
+Flying Zip Confu
+Appear
+Vanish
+(Report)
+Bodyblow
+Gash
+Slap
+Sawback
+Spinning Cut
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 107
+
+Hammer Blaster 
+
+Sword Dance 
+
+Hammer Attack
+Muyddle Mallet
+Zip Hammer
+Zip Confu
+Appear
+Vanish
+Flying Hammer
+Flying Muddle
+Flying Zip
+Flying Zip Confu
+Appear
+Vanish
+(Report)
+Bodyblow
+Gash
+Slap
+Sawback
+Spinning Cut
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 108
+
+Warning Board 
+Machine Gun 
+Laser Cannon 
+
+Vanish
+Machine Gun
+Appear
+Laser Cannon
+Paralaser
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Warning! Warning!
+Leave at once!!
+------------------------------
+# File 109
+
+SOLDIER:3rd 
+Moth Slasher 
+
+
+Split
+Bolt2
+Ice2
+Sleepel
+Flying Sickle
+Verbal Attack
+Speed Slash
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 110
+
+SOLDIER:3rd 
+Moth Slasher 
+
+
+Split
+Bolt2
+Ice2
+Sleepel
+Flying Sickle
+Verbal Attack
+Speed Slash
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 111
+
+Brain Pod 
+Vargid Police 
+
+
+Bodyblow
+Refuse
+Refuse
+Needle
+Suicide
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 112
+
+Brain Pod 
+Vargid Police 
+Zenene 
+
+Bodyblow
+Refuse
+Refuse
+Needle
+Suicide
+Fang
+Piazzo Shower
+Ghenghana
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 113
+
+Vargid Police 
+Zenene 
+
+
+Needle
+Suicide
+Fang
+Piazzo Shower
+Ghenghana
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 114
+
+Sample:H0512
+Sample:H0512-opt 
+
+
+Keyclaw
+Shady Breath
+Reanimagic
+Order
+Order
+Vanish
+Bodyblow
+Fire
+Ice
+Rolling Attack
+Rolling Attack
+Rolling Attack
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 115
+
+Hundred Gunner
+Heli Gunner
+
+
+Glass Shatter
+Aux Artillery
+Hidden Artillery
+Destroyed
+Main Artillery
+Sub Artillery
+Destroyed
+Wave Artillery
+Charging
+AB Cannon
+C Cannon
+Firing Line
+Start Spin
+Spinning Bodyblow
+Flying Drill
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sensor Cannon Charging!
+Sensor Cannon Charged!
+------------------------------
+# File 116
+
+Rufus
+Dark Nation
+
+
+Shotgun
+Dodge
+
+(Report)
+Bite
+Barrier
+MBarrier
+Bolt
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Rufus “Heh, Heh, Heh…”
+Rufus “Heh… That's all for today…”
+------------------------------
+# File 117
+
+Motor Ball
+Midgar Zolom 
+Ark Dragon 
+
+Highway
+Deadly Wheel
+Twin Burner
+
+Deadly Wheel
+Rolling Fire
+Arm Attack
+
+x
+Bite
+Bite
+Beta
+Blown Away
+Change
+Claw
+Flame Thrower
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 118
+
+Madouge 
+Crawler 
+Castanets 
+
+Ironball
+Swamp Shoot
+Bite
+Cold Breath
+2-stage attack
+Scissor Spark
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 119
+
+Crawler 
+Ark Dragon 
+Castanets 
+
+Bite
+Cold Breath
+Claw
+Flame Thrower
+2-stage attack
+Scissor Spark
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 120
+
+Bottomswell
+Waterpolo 
+
+
+Bodyblow
+Tail Attack
+Fury Blast
+Bodyblow
+Moonstrike
+Fury Blast
+Fury Blast
+Waterball
+Waterball
+Waterball
+Big Wave
+Chill
+Vanish
+Appear
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 121
+
+Scrutin Eye 
+Marine 
+
+
+Drilldrive
+Ice2
+Fire2
+Machine Gun
+Grenade
+Smoke Bullet
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 122
+
+Jenova▪BIRTH
+
+
+
+Laser
+Gas
+W-Laser
+Tail Laser
+Stop
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 123
+
+Search Crown 
+Needle Kiss 
+Bagnadrana 
+
+Seed Shot
+Four Laser
+Chute Attack
+Thunder Kiss
+Fang
+Claw
+Horn
+Poison Breath
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 124
+
+Bloatfloat 
+Bagnadrana 
+
+
+Bodyblow
+Vacuum
+Spiky Hell
+Fang
+Claw
+Horn
+Poison Breath
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 125
+
+Bloatfloat 
+Cokatolis 
+Bomb 
+
+Bodyblow
+Vacuum
+Spiky Hell
+Beak
+Bird Kick
+Petrify Smog
+Bodyblow
+Bodyblow
+Fireball
+Bomb Blast
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 126
+
+Needle Kiss 
+Cokatolis 
+
+
+Chute Attack
+Thunder Kiss
+Beak
+Bird Kick
+Petrify Smog
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 127
+
+Search Crown 
+Needle Kiss 
+Bagnadrana 
+
+Seed Shot
+Four Laser
+Chute Attack
+Thunder Kiss
+Fang
+Claw
+Horn
+Poison Breath
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 128
+
+Bagnadrana 
+Cokatolis 
+Bomb 
+
+Fang
+Claw
+Horn
+Poison Breath
+Beak
+Bird Kick
+Petrify Smog
+Bodyblow
+Bodyblow
+Bodyblow
+Fireball
+Bomb Blast
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 129
+
+2-Faced 
+Bandit 
+
+
+Cure3
+Self-destruct
+Hit
+Hold-up
+Mug
+Escape
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 130
+
+Death Claw 
+2-Faced 
+Bullmotor 
+
+Claw
+Death Claw
+Laser
+Barrier
+MBarrier
+Cure3
+Self-destruct
+Bodyblow
+Matra Magic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 131
+
+Bullmotor 
+Land Worm
+Dyne
+
+Bodyblow
+Matra Magic
+Earthquake
+Sandstorm
+Needle Gun
+Fire
+S-Mine
+Molotov Cocktail
+(Report)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dyne “Urgh!”
+------------------------------
+# File 132
+
+Touch Me 
+Kimara Bug 
+
+
+Frog Jab
+Frog Song
+Butterfly Attack
+Stop Web
+Spider Attack
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 133
+
+Flower Prong 
+Flower Prong 
+Flower Prong 
+
+Bio2
+Drain
+Energy Siphon
+Change
+Seed Bullet
+W Laser
+Pollen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 134
+
+Heavy Tank 
+Turks:Reno
+Turks:Rude
+
+Charge
+Wheelie Attack
+Big Spiral
+Short Staff
+Turk Light
+Electroprod
+(Report)
+Shoulder Attack
+Fire
+Cure
+Grand Spark
+Cover
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reno “We may be retreating, but…
+we're still victorious.”
+Rude “………………”
+Rude “………………”
+------------------------------
+# File 135
+
+Sneaky Step 
+Heg 
+
+
+Triple Attack
+Death Sentence
+Poison Fang
+Halt Whip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 136
+
+Gi Spector 
+Sneaky Step 
+Heg 
+
+Skewer
+Hell Spear
+Death Sentence
+Triple Attack
+Poison Fang
+Halt Whip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 137
+
+Sneaky Step 
+Heg 
+Stinger 
+
+Triple Attack
+Death Sentence
+Poison Fang
+Halt Whip
+Sting
+Sting Bomb
+Rabbit Gouge
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 138
+
+Gi Spector 
+Soul Fire 
+Gi Nattak
+
+Skewer
+Hell Spear
+Death Sentence
+Take Over
+Return
+Fire2
+Spear Attack
+Take Over
+Take Over
+Drain
+Aspil
+DeBarrier
+Vanish
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 139
+
+Dorky Face 
+Ghirofelgo
+Chain
+
+Cutter
+Curses
+Funny Breath
+Ascend
+Guillotine
+
+Catch Chain
+Fail to catch
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 140
+
+Mirage 
+Dorky Face 
+Jersey 
+
+Swing Attack
+Reflection
+Cutter
+Curses
+Funny Breath
+Ascend
+Spin Attack
+????
+Lean to LL
+Spin Attack
+Fire2
+Lean to LR
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 141
+
+Mirage 
+Dorky Face 
+Black Bat 
+
+Swing Attack
+Reflection
+Cutter
+Curses
+Funny Breath
+Ascend
+Blood Suck
+Dodge
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 142
+
+Black Bat 
+
+
+
+Blood Suck
+Dodge
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 143
+
+Ying 
+Yang 
+Ying/Yang 
+
+Ying Punch
+Sadistic Attack
+Vanish
+Bolt2
+Ice2
+Suicide Yang
+Happy Yang
+Enchanted Yang
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Yang's happy.
+Yang's excited.
+------------------------------
+# File 144
+
+Lost Number
+Lost Number
+Lost Number
+
+Punch
+
+
+Bolt2
+Bolt
+Tentacle
+Aspil
+Bio2
+Quake2
+Bio
+Quake
+Lost Blow
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 145
+
+Sonic Speed 
+Kyuvilduns 
+
+
+Sonic Attack
+Harrier
+Lay Flat
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A Chocobo!
+Caught a Chocobo.
+------------------------------
+# File 146
+
+Sonic Speed 
+Zuu 
+
+
+Sonic Attack
+Harrier
+Claw
+Great Gale
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Zuu feels Fury.
+Zuu feels Fury.
+------------------------------
+# File 147
+
+Sonic Speed 
+Twin Brain 
+Zuu 
+
+Sonic Attack
+Harrier
+Absorb
+Stare Down
+Claw
+Great Gale
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Zuu feels Fury.
+Zuu feels Fury.
+------------------------------
+# File 148
+
+Twin Brain 
+Screamer 
+Materia Keeper 
+
+Absorb
+Stare Down
+Ironball
+Iron Attack
+War Cry
+Keyclaw
+Big Horn
+Hell Combo
+Trine
+Cure2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 149
+
+Dragon 
+Twin Brain 
+Kyuvilduns 
+
+Dragon Fang
+Flame Thrower
+Absorb
+Stare Down
+Lay Flat
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A Chocobo!
+Caught a Chocobo.
+------------------------------
+# File 150
+
+Palmer
+
+
+
+Fire2
+Ice2
+Bolt2
+Incite
+Palmer “Ugh!”
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Palmer “Heh-hic-heh-hic!”
+Mako Gun
+Mako Gun
+Mako Gun
+Palmer “Heh heh hic!”
+------------------------------
+# File 151
+
+Razor Weed 
+Bizarre Bug 
+Jayjujayme 
+
+Glasscutter
+Spaz Voice
+Magic Hammer
+Bodyblow
+
+Scorpion Attack
+Toxic Powder
+
+Bite
+Confu-scales
+Silk
+Thread
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A Chocobo!
+Caught a Chocobo.
+------------------------------
+# File 152
+
+Bizarre Bug 
+Foulander 
+
+
+Bodyblow
+
+Scorpion Attack
+Toxic Powder
+
+Claw
+Flame Dance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 153
+
+Garuda 
+Jayjujayme 
+
+
+Rod
+Ice2
+Bolt2
+Dance
+Dance
+Bite
+Confu-scales
+Silk
+Thread
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 154
+
+Foulander 
+Garuda 
+Rapps 
+
+Claw
+Flame Dance
+Rod
+Ice2
+Bolt2
+Dance
+Dance
+Wing Cut
+Scorpion's Tail
+Aero3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 155
+
+Attack Squad 
+Gorkii
+
+
+Machine Gun
+Grenade
+Smoke Bullet
+Dive Kick
+Barrier
+Demi2
+Reflect
+Regen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 156
+
+Shake
+Chekhov
+Staniv
+
+Beak
+Rage Bomber
+Absorb
+Stare Down
+Ironball
+Iron Attack
+War Cry
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 157
+
+Godo
+
+
+
+Cure2
+Sleepel
+Mini
+to Beast
+to Cheater
+Beast Sword
+Trine
+to Human
+to Cheat
+Bio2
+Demi3
+Drain
+to Beast
+to Human
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 158
+
+Under Lizard 
+Kelzmelzer 
+Toxic Frog 
+
+Bodyblow
+Petrified Frog
+Claw
+Liquid poison
+Frog Jab
+Frog Song
+Poisona
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 159
+
+Kelzmelzer 
+Toxic Frog 
+Doorbull 
+
+Claw
+Liquid poison
+Frog Jab
+Frog Song
+Poisona
+Claw
+Fang
+Fire Shell
+Light Shell
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 160
+
+Doorbull 
+Ancient Dragon 
+
+
+Claw
+Fang
+Fire Shell
+Light Shell
+Horn
+Southern Cross
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 161
+
+Toxic Frog 
+Jemnezmy 
+Demons Gate
+
+Frog Jab
+Frog Song
+Poisona
+Toad
+Fascination
+Cold Breath
+Falling Rocks
+Cave-in
+Petrif-Eye
+Advance
+Demon Rush
+Retreat
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 162
+
+Ancient Dragon 
+8 eye 
+
+
+Horn
+Southern Cross
+Eyesight
+Eyesight
+Eyesight
+Eyesight
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 163
+
+SOLDIER:3rd 
+Red Dragon 
+
+
+Split
+Bolt2
+Ice2
+Sleepel
+Flying Sickle
+Dragon Fang
+Tail Attack
+Red Dragon Breath
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 164
+
+Boundfat 
+Malldancer 
+Hungry 
+
+Bodyblow
+Ice2
+Dark Needle
+Death Sentence
+Claw
+Dance
+Bodyblow
+Mini
+Eat
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 165
+
+Trickplay 
+
+Boundfat 
+
+Rock Toss
+Magma
+Sewer
+Sinking
+Hot Springs
+Gold Mountain
+L4 Suicide
+Bodyblow
+Ice2
+Dark Needle
+Death Sentence
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 166
+
+Boundfat 
+Grimguard 
+Hungry 
+
+Bodyblow
+Ice2
+Dark Needle
+Death Sentence
+Bolt2
+Spin Shield
+Magic Defense
+Grim Rod
+Spin Shield
+Defense
+Bodyblow
+Mini
+Eat
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 167
+
+Jenova▪LIFE
+Hungry 
+Acrophies 
+
+Blue Light
+Aqualung
+Blue Flame
+Reflect
+Bodyblow
+Mini
+Eat
+Big Red Clipper
+Isogin Smog
+Huge Tidal Wave
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 168
+
+Shred 
+Frozen Nail 
+Bandersnatch 
+
+Tail
+Crazy Claw
+Cure3
+Continu-claw
+Flying Sickle
+Bodyblow
+Bite
+Howling
+Howling
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A Chocobo!
+Caught a Chocobo.
+------------------------------
+# File 169
+
+Frozen Nail 
+Snow 
+Bandersnatch 
+
+Continu-claw
+Flying Sickle
+Ice
+Ice2
+Fascination
+Cold Breath
+Bodyblow
+Bite
+Howling
+Howling
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A Chocobo!
+Caught a Chocobo.
+------------------------------
+# File 170
+
+Hungry 
+Lessaloploth 
+Bandersnatch 
+
+Bodyblow
+Mini
+Eat
+Wing Cut
+Scorpion's Tail
+Snowstorm
+Avalanche
+Bite
+Howling
+Howling
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A Chocobo!
+Caught a Chocobo.
+------------------------------
+# File 171
+
+Ice Golem 
+Snow 
+Bandersnatch 
+
+Golem Punch
+Cold Snap
+Wide Grazer
+Megaton Punch
+Advance
+Retreat
+Defense Start
+Defense Down
+Advance
+Retreat
+Ice
+Ice2
+Fascination
+Cold Breath
+Bodyblow
+Bite
+Howling
+Howling
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A Chocobo!
+Caught a Chocobo.
+------------------------------
+# File 172
+
+Ice Golem 
+Snow 
+Bandersnatch 
+
+Golem Punch
+Cold Snap
+Wide Grazer
+Megaton Punch
+Advance
+Retreat
+Defense Start
+Defense Down
+Advance
+Retreat
+Ice
+Ice2
+Fascination
+Cold Breath
+Bodyblow
+Bite
+Howling
+Howling
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A Chocobo!
+Caught a Chocobo.
+------------------------------
+# File 173
+
+Lessaloploth 
+Snow 
+Bandersnatch 
+
+Wing Cut
+Scorpion's Tail
+Snowstorm
+Avalanche
+Ice
+Ice2
+Fascination
+Cold Breath
+Bodyblow
+Bite
+Howling
+Howling
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A Chocobo!
+Caught a Chocobo.
+------------------------------
+# File 174
+
+Magnade 
+
+
+
+Shield Throw
+W-Shield Throw
+Strong Kick
+Shield Defense
+Vanish
+Vanish
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 175
+
+Malboro 
+Headbomber 
+Zolokalter 
+
+Frozen Beam
+Bio2
+Bad Breath
+Dorsal Punch
+Extreme Bomber
+Bite
+Toxic Barf
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 176
+
+Headbomber 
+Stilva 
+Zolokalter 
+
+Dorsal Punch
+Extreme Bomber
+Big Red Clipper
+Big Horn
+Jump Attack
+Trine
+Magic Breath
+Bite
+Toxic Barf
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 177
+
+Stilva 
+Evilhead 
+
+
+Big Red Clipper
+Big Horn
+Jump Attack
+Trine
+Magic Breath
+Blood Suck
+Ultrasound
+Dodge
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 178
+
+Blue Dragon 
+Headbomber 
+Cuahl 
+
+Dragon Fang
+Tail Attack
+Blue Dragon Breath
+Great Gale
+Dragon Force
+Dorsal Punch
+Extreme Bomber
+Light Shell
+Blaster
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 179
+
+Icicle 
+Evilhead 
+
+
+Icicle Drop
+Crack
+Blood Suck
+Ultrasound
+Dodge
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 180
+
+Gigas 
+Grenade 
+
+
+Squash
+Moon Wars
+Quake3
+Bodyblow
+Bodyblow
+Bodyblow
+Gush
+Eruption
+Bomb Blast
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 181
+
+Gremlin 
+Ironite 
+Sculpture 
+
+Claw
+Bad mouth
+Fury
+Fury 2
+Bodyblow
+Flying Upper
+Sleepel
+Fire Shell
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 182
+
+Gremlin 
+Wind Wing 
+Dragon Rider 
+
+Claw
+Bad mouth
+Fury
+Fury 2
+Tailbeat
+Sham Seal
+Aero3
+White Wind
+Fang
+Head Hunting
+Dual Attack
+Rider Breath
+Head Hunting 2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 183
+
+Ironite 
+Wind Wing 
+
+
+Bodyblow
+Flying Upper
+Sleepel
+Tailbeat
+Sham Seal
+Aero3
+White Wind
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 184
+
+Gremlin 
+Killbin 
+Tonberry 
+
+Claw
+Bad mouth
+Fury
+Fury 2
+x
+Cure2
+Fire2
+Ice2
+Aspil
+Slow
+Time Damage
+Knife
+Move
+Move Right
+Move Left
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 185
+
+Schizo(Right) 
+Schizo(Left) 
+Jenova▪DEATH
+
+Right Breath
+Right Breath 2
+Double Breath
+Tremor
+Right Breath
+Right Breath 2
+Tremor
+Left Breath
+Left Breath 2
+Double Breath
+Tremor
+Left Breath
+Left Breath 2
+Tremor
+Red Light
+Tropic Wind
+Silence
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 186
+
+Roulette Cannon 
+Pedestal 
+SOLDIER:2nd 
+
+Fire Roulette
+Fire Roulette
+Fire Roulette
+Vanish
+Fight
+Silence
+Sword of Doom
+Quadra-Cut
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 187
+
+Death Machine 
+Slalom 
+
+
+W Machine Gun
+100 Needles
+Matra Magic
+Punch
+Smog
+Smog
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 188
+
+SOLDIER:2nd 
+Death Machine 
+Slalom 
+
+Fight
+Silence
+Sword of Doom
+Quadra-Cut
+W Machine Gun
+100 Needles
+Matra Magic
+Punch
+Smog
+Smog
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 189
+
+Guard System 
+Quick Machine Gun 
+Rocket Launcher 
+
+Vanish
+Machine Gun
+Appear
+Machine Gun
+Rocket Launcher
+Confu Missile
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Warning! Warning!
+Leave at once!!
+------------------------------
+# File 190
+
+SOLDIER:2nd 
+Submarine Crew 
+
+
+Fight
+Silence
+Sword of Doom
+Quadra-Cut
+Machine Gun
+Hand Grenade
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+“Eyaaarrrgh!”
+“Captain… I can't hold on any longer!”
+“The Special Pose…”
+------------------------------
+# File 191
+
+Ghost Ship 
+Corvette 
+Diver Nest 
+
+Fight
+St.Elmos Fire
+Goannai
+Bodyblow
+Gash
+Slap
+Sawback
+Spinning Cut
+Bodyblow
+Big Wave
+Tornade Wave
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 192
+
+Submarine Crew 
+Underwater MP 
+
+
+Machine Gun
+Hand Grenade
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+“Eyaaarrrgh!”
+“Captain… I can't hold on any longer!”
+“The Special Pose…”
+------------------------------
+# File 193
+
+Senior Grunt 
+Hard Attacker 
+Gun Carrier 
+
+Handclaw
+Harrier Beam
+Water Wave
+Bodyblow
+Oil
+Normal Shell
+Abnormal Shell
+
+Bodyblow
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 194
+
+Guardian 
+Guardian(Right)
+Guardian(Left)
+
+Rocket Punch
+W Rocket Punch
+Jumping Blow
+Power Plus
+Vanish
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 195
+
+Carry Armor
+Right Arm
+Left Arm
+
+Lapis Laser
+Lapis Laser
+Lapis Laser
+Lapis Laser
+Damage Attack
+Free Right Character
+Free Left Character
+Vanish
+Arm Punch
+Arm Grab
+Arm Punch
+Arm Grab
+Arm Punch
+Arm Grab
+Arm Punch
+Arm Grab
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 196
+
+Submarine Crew 
+Captain 
+
+
+Machine Gun
+Hand Grenade
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+“Eyaaarrrgh!”
+“Captain… I can't hold on any longer!”
+“The Special Pose…”
+Captain “Let me show you how it's done.”
+Captain “Ugh… they got me.”
+------------------------------
+# File 197
+
+Rilfsak 
+Diablo 
+Epiolnis 
+
+Blood Suck
+Autumn Leaves
+Dodge
+Exchange
+Horn Bomber
+Flame
+Cold
+Bird Kick
+Catapult
+Acid Rain
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 198
+
+Rilfsak 
+Ho-chu 
+
+
+Blood Suck
+Autumn Leaves
+Dodge
+Exchange
+Whip Sting
+Big Pollen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 199
+
+Poodler 
+Bad Rap 
+
+
+Bodyblow
+Fire
+Whip
+Big Fang
+Evil Poison
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 200
+
+Unknown
+Unknown 3
+Unknown 2
+
+Bite
+Tongue
+Tongue
+Blaster
+Poison Fang
+Bolt2
+Slap
+Creepy Touch
+Tentacle
+? Needle
+Abnormal Breath
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 201
+
+Serpent 
+Turks:Reno
+Turks:Rude
+
+Huge Tidal Wave
+Viper Breath
+Dragon Dance
+Aqualung
+Short Staff
+Neo Turk Light
+Electroprod 2
+(Report)
+Shoulder Attack
+Bolt2
+Fire2
+Ice2
+Cure2
+Grand Spark
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reno “These guys are pretty tough.”
+Rude “………………”
+Rude “………………”
+------------------------------
+# File 202
+
+Gas Ducter 
+Wolfmeister 
+Eagle Gun 
+
+Punch
+Smog Alert
+Big Punch
+Heavy Sword
+Atomic Ray
+Big Guard
+Claw
+Single Wing Fire
+Dual Wing Fire
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 203
+
+Attack Squad 
+
+
+
+Machine Gun
+Grenade
+Smoke Bullet
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 204
+
+Attack Squad 
+Senior Grunt 
+Turks:Rude
+
+Machine Gun
+Grenade
+Smoke Bullet
+Handclaw
+Harrier Beam
+Water Wave
+Shoulder Attack
+Bolt2
+Cure2
+MBarrier
+Grand Spark
+Cover
+(Report)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Rude “………………”
+Rude “Ugh………gh………”
+------------------------------
+# File 205
+
+Cromwell 
+Manhole 
+Manhole(Lid) 
+
+Normal Shell
+Rockbreaker
+Ice2
+Fire2
+
+
+Vanish
+Vanish
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 206
+
+Behemoth 
+Cromwell 
+Crazy Saw 
+
+Behemoth Horn
+Flare
+????
+Claw
+Normal Shell
+Uppercut
+Rifle
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 207
+
+Cromwell 
+Crazy Saw 
+Shadow Maker 
+
+Normal Shell
+Uppercut
+Rifle
+Support Beam
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 208
+
+Crazy Saw 
+Shadow Maker 
+
+
+Uppercut
+Rifle
+Support Beam
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 209
+
+Grosspanzer▪Big 
+Grosspanzer▪Small 
+Grosspanzer▪Mobile 
+
+Napalm Bomb
+Normal Shell
+Normal Shell
+Bodyblow
+Deadly Wheel
+Vanish
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 210
+
+Turks:Elena
+Turks:Reno
+Turks:Rude
+
+Kick
+Bewildered
+Throw
+Throw
+
+
+(Report)
+Short Staff
+Turk Light
+Electroprod
+Shoulder Attack
+Fire
+Cure
+Grand Spark
+Cover
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Elena “Try this on for size!”
+Elena “Take THAT!!”
+Elena “Take THAT!!”
+Elena “Yeow! That hurts!”
+Elena “Take THAT!!”
+Reno “Let's call it a day.”
+Reno “Let's call it a day.”
+Rude “………………”
+Rude “Reno! Elena! Let's pull out!”
+------------------------------
+# File 211
+
+Proud Clod
+Jamar Armor
+
+
+Big Hand Clash
+Wrist Laser
+Knee Fire
+Knee Blend
+W Machine Gun
+Materia-jammer
+
+Beam Cannon
+Charging
+
+Vanish
+Bodyblow
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 212
+
+SOLDIER:1st 
+XCannon 
+
+
+Fight
+Silence
+Sword of Doom
+Quadra-Cut
+Search
+Drain
+
+Dragon Cannon
+Before Firing
+
+Vanish
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Target: set
+Countdown
+3
+2
+1
+0
+------------------------------
+# File 213
+
+Eagle Gun 
+SOLDIER:1st 
+Maximum Kimaira 
+
+Claw
+Single Wing Fire
+Dual Wing Fire
+Fight
+Silence
+Sword of Doom
+Quadra-Cut
+Freeze
+Northern Cross
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 214
+
+Hojo
+Bad Rap Sample
+Poodler Sample
+
+Capsule
+Capsule
+
+Change
+Vanish
+Whip
+Big Fang
+Evil Poison
+Bodyblow
+Fire2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hojo “Gwah, haw, haw!!”
+Hojo “Haw…now let's see
+how the Mako Juice is reacting?”
+------------------------------
+# File 215
+
+Helletic Hojo
+Right Arm
+Left Arm
+
+Pile Banger
+Bio Gas
+Confu
+Sleepel
+Silence
+Right Arm Revive
+Vanish
+Appear
+Pile Banger
+Appear
+Transform
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 216
+
+Lifeform-Hojo N
+
+
+
+Absorb
+Combo
+Combo
+Combo
+Combo
+Slow
+Silence
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 217
+
+Gargoyle 
+Gargoyle 
+Dark Dragon 
+
+
+Rock Finger
+Vanish
+Kick
+L4 Death
+Claw
+Tail Attack
+Dark Dragon Breath
+Ultima
+Dragon Force
+Laser
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 218
+
+Master Tonberry 
+Parasite 
+
+
+Everyone's Grudge
+Knife
+Move
+Move Right
+Move Left
+Head Attack
+Para Tail
+Magic Extinguish
+L5 Death
+Magic Breath
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 219
+
+Pollensalta 
+Parasite 
+Death Dealer 
+
+Fire
+Fire3
+Fascination
+Cold Breath
+Angel Whisper
+Head Attack
+Para Tail
+Magic Extinguish
+L5 Death
+Magic Breath
+Spin Turn
+Emperor
+Hidden One
+Star
+Sun
+World
+Roulette
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 220
+
+Malboro 
+Dragon Zombie 
+Death Dealer 
+
+Frozen Beam
+Bio2
+Bad Breath
+Poison Fang
+Body Tail
+Abnormal Breath
+Bone
+Shadow Flare
+Pandora's Box
+Spin Turn
+Fire
+Emperor
+Hidden One
+Star
+Sun
+World
+Roulette
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 221
+
+Magic Pot 
+Christopher 
+Gighee 
+
+Gimme
+(Report)
+Flutilizer
+Cure2
+Bolt3
+Aspil
+Frog Song
+High/Low Suit
+High/Low Suit
+Suffocation Song
+Stardust March
+Guitar Slap
+Petrif-Eye
+Voice of Ages
+Sun Diver
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Magic Pot “Gimme Elixir!”
+------------------------------
+# File 222
+
+Allemagne 
+Master Tonberry 
+Mover 
+
+Claw
+Teardrop
+Big Breath
+L4 Death
+L3 Flare
+Everyone's Grudge
+Knife
+Move
+Move Right
+Move Left
+Exchange
+Bodyblow
+Triangle Attack
+Exchange
+Bodyblow
+Triangle Attack
+Exchange
+Bodyblow
+Triangle Attack
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 223
+
+King Behemoth 
+Allemagne 
+Armored Golem 
+
+Behemoth Horn
+King Teel
+Flare
+Comet2
+Bite
+Claw
+Teardrop
+Big Breath
+L4 Death
+L3 Flare
+Golem Punch
+Snap
+Megaton Punch
+Golem Laser
+Advance
+Retreat
+Defense Start
+Defense Down
+Advance
+Retreat
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 224
+
+Gargoyle 
+Gargoyle 
+Master Tonberry 
+
+
+Rock Finger
+Vanish
+Kick
+L4 Death
+Everyone's Grudge
+Knife
+Move
+Move Right
+Move Left
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 225
+
+Allemagne 
+Dragon Zombie 
+Iron Man 
+
+Claw
+Teardrop
+Big Breath
+L4 Death
+L3 Flare
+Poison Fang
+Body Tail
+Abnormal Breath
+Bone
+Shadow Flare
+Pandora's Box
+Heavy Sword
+Grand Sword
+Adrenaline
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 226
+
+Christopher 
+Gighee 
+Death Dealer 
+
+Flutilizer
+Cure2
+Bolt3
+Aspil
+Frog Song
+High/Low Suit
+High/Low Suit
+Suffocation Song
+Stardust March
+Guitar Slap
+Petrif-Eye
+Voice of Ages
+Sun Diver
+Spin Turn
+Fire
+Emperor
+Hidden One
+Star
+Sun
+World
+Roulette
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 227
+
+Jenova▪SYNTHESIS
+
+
+
+Absorb
+Repeating Slap
+Bio2
+Right Hand Revived
+Left Hand Revived
+Repeating Slap
+Cure3
+Left Hand Revived
+Absorb
+Stop
+Right Hand Revived
+Ultima
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+2
+3
+4
+5
+------------------------------
+# File 228
+
+Bizarro▪Sephiroth 
+
+
+
+Sephiroth Shock
+Sephiroth Shock
+Aurora Fence
+Bolt3
+Fire3
+Ice3
+Quake3
+Bizzarro Enegy
+Stigma
+Stigma
+Heartless Angel
+
+
+Vanish
+Vanish
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Think about the sequence of the 5 targets
+ and beat them!
+Head Portion (B) Revived
+Left&Right-Magic (D&E) Revived
+Head Portion (B) Dead
+Core (C) Dead
+Right Magic (D) Dead
+Core (C) Defense Down
+Left Magic (E) Dead
+Core (C) Defense Down
+------------------------------
+# File 229
+
+Bizarro▪Sephiroth 
+
+
+
+Sephiroth Shock
+Sephiroth Shock
+Aurora Fence
+Fire3
+Demi3
+Quake3
+Stop
+Bizzarro Enegy
+Heartless Angel
+Stigma
+Stigma
+
+
+Vanish
+Vanish
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+If a part dies, change to a different party.
+Head Portion (B) Revived
+Left Magic (D&E) Revived
+Head Portion (B) Dead
+Left Core (C) Dead
+Core (C) Defense Down
+ in front of {NAME 0}'s party.
+Left Magic (D) Dead
+Left Core (C) Defense Down
+Left Magic (E) Dead
+Left Core (C) Defense Down
+------------------------------
+# File 230
+
+Bizarro▪Sephiroth 
+
+
+
+Sephiroth Shock
+Sephiroth Shock
+Aurora Fence
+Bolt3
+Ice3
+Sleepel
+Slow
+Bizzarro Enegy
+Heartless Angel
+Stigma
+Stigma
+
+
+Vanish
+Vanish
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+If a part dies, change to a different party.
+Head Portion (B) Revived
+Right Magic (D&E) Revived
+Head Portion (B) Dead
+Right Core (C) Dead
+Core (C) Defense Down
+ in front of {NAME 0}'s party
+Right Magic (D) Dead
+Right Core (C) Defense Down
+Right Magic (E) Dead
+Right Magic (D) Revived
+------------------------------
+# File 231
+
+Safer▪Sephiroth
+Sephiroth
+
+
+ 
+Deen
+Wall
+Appear
+
+Pale Horse
+Shadow Flare
+Super Nova
+
+x
+DeSpell
+Heartless Angel
+Break
+ 
+ 
+Cut
+Done-in
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 232
+
+Bizarro▪Sephiroth 
+
+
+
+Sephiroth Shock
+Sephiroth Shock
+Aurora Fence
+Bolt3
+Ice3
+Sleepel
+Slow
+Bizzarro Enegy
+Heartless Angel
+Stigma
+Stigma
+
+
+Vanish
+Vanish
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Think about the sequence of the 5 targets
+ and beat them!
+If a part dies, change to a different party.
+Head Portion (B) Revived
+Right Magic (D&E) Revived
+Head Portion (B) Dead
+Right Core (C) Dead
+Right Magic (D) Dead
+Right Core (C) Defense Down
+Right Magic (E) Dead
+Right Core (C) Defense Down
+------------------------------
+# File 233
+
+Bizarro▪Sephiroth 
+
+
+
+Sephiroth Shock
+Sephiroth Shock
+Aurora Fence
+Bolt3
+Fire3
+Ice3
+Quake3
+Demi3
+Bizzarro Enegy
+Heartless Angel
+Stigma
+Stigma
+
+
+Vanish
+Vanish
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Think about the sequence of the 5 targets
+ and beat them!
+If a part dies, change to a different party.
+Head Portion (B) Revived
+Left&Right Magic (D&E) Revived
+Head Portion (B) Dead
+Core (C) Dead
+Right Magic (D) Dead
+Left Magic (E) Dead
+------------------------------
+# File 234
+
+Bizarro▪Sephiroth 
+
+
+
+Sephiroth Shock
+Sephiroth Shock
+Aurora Fence
+Fire3
+Demi3
+Quake3
+Stop
+Bizzarro Enegy
+Heartless Angel
+Stigma
+Stigma
+
+
+Vanish
+Vanish
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+If a part dies, change to a different party.
+Head Portion (B) Revived
+Left Magic (D&E) Revived
+Head Portion (B) Dead
+Left Core (C) Dead
+Core (C) Defense Down
+ in front of {NAME 0}'s party
+Left Magic (D) Dead
+Left Core (C) Defense Down
+Left Magic (E) Dead
+Left Magic (D) Revived
+------------------------------
+# File 235
+
+Roulette Cannon 
+Pedestal 
+SOLDIER:2nd 
+
+Fire Roulette
+Fire Roulette
+Fire Roulette
+Vanish
+Fight
+Silence
+Sword of Doom
+Quadra-Cut
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 236
+
+Attack Squad 
+SOLDIER:2nd 
+
+
+Machine Gun
+Grenade
+Smoke Bullet
+Fight
+Silence
+Sword of Doom
+Quadra-Cut
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 237
+
+Scissors 
+Scissors(Upper) 
+Scissors(Lower) 
+
+Cross Scissor
+Scissor Kick
+Scissor Attack
+
+Scissor Tornado
+Bloody Nail
+Confu
+Cure3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 238
+
+êúô0(äñ)
+
+
+
+í3
+í4
+í5
+í6
+í7
+í8
+í9
+í10
+í11
+í12
+í13
+í14
+í15
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ENCOUNT ERROR
+If you found this message
+then please call staff
+monster“Not a probrem”
+monster“I'm sorry”
+monster“That's too bad”
+------------------------------
+# File 239
+
+êúô0(äñ)
+Tonberry 
+
+
+í3
+í4
+í5
+í6
+í7
+í8
+í9
+í10
+í11
+í12
+í13
+í14
+í15
+Time Damage
+Knife
+Move
+Move Right
+Move Left
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ENCOUNT ERROR
+If you found this message
+then please call staff
+monster“Not a probrem”
+monster“I'm sorry”
+monster“That's too bad”
+------------------------------
+# File 240
+
+Ho-chu 
+Unknown 3
+Sea Worm
+
+Whip Sting
+Big Pollen
+Poison Fang
+Bolt2
+Slap
+Creepy Touch
+Earthquake
+Sandstorm
+Crush
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 241
+
+Wolfmeister 
+Serpent 
+
+
+Big Punch
+Heavy Sword
+Atomic Ray
+Big Guard
+Huge Tidal Wave
+Viper Breath
+Dragon Dance
+Aqualung
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 242
+
+Behemoth 
+
+
+
+Behemoth Horn
+Flare
+????
+Claw
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 243
+
+Proud Clod
+Jamar Armor
+Maximum Kimaira 
+
+Big Hand Clash
+Wrist Laser
+Knee Fire
+Knee Blend
+W Machine Gun
+Materia-jammer
+
+Beam Cannon
+Charging
+
+Vanish
+Bodyblow
+Claw
+Freeze
+Northern Cross
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 244
+
+Rilfsak 
+Diablo 
+Epiolnis 
+
+Blood Suck
+Autumn Leaves
+Dodge
+Exchange
+Horn Bomber
+Flame
+Cold
+Bird Kick
+Catapult
+Acid Rain
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 245
+
+Diamond Weapon
+Ruby Weapon
+Ruby's Tentacle 
+
+Diamond Fire
+Foot Stamp
+
+(Report)
+Diamond Fire
+Foot Stamp
+Diamond Flash
+
+Big Claw
+Big Swing
+Comet2
+Whirlsand
+ 
+Ruby Flame
+Ultima
+Whirlsand
+Ruby Ray
+Right Revenge
+Right Thrust
+Shadow Flare
+Left Revenge
+Left Thrust
+ 
+Vanish
+
+
+
+
+
+
+
+
+
+Countdown
+3
+2
+1
+0
+------------------------------
+# File 246
+
+Emerald Weapon
+Leg 
+Eye 
+
+Foot Stamp
+Emerald Shoot
+Emerald Beam
+
+Revenge Stamp
+Emerald Shoot
+Emerald Beam
+Aire Tam Storm
+
+Vanish
+Emerald Laser
+Emerald Laser
+Emerald Laser
+Emerald Laser
+Vanish
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 247
+
+êúô2(ñ)
+Ultimate Weapon
+
+
+í3
+í4
+í5
+í6
+í7
+í8
+í9
+í10
+í11
+í12
+í13
+í14
+í15
+Cure3
+Bolt3
+Thunderball
+Shadow Flare
+Ultima Beam
+(Report)
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 248
+
+Bloatfloat 
+Bagnadrana 
+
+
+Bodyblow
+Vacuum
+Spiky Hell
+Fang
+Claw
+Horn
+Poison Breath
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 249
+
+êúô0(äñ)
+êúô2(ñ)
+
+
+í3
+í4
+í5
+í6
+í7
+í8
+í9
+í10
+í11
+í12
+í13
+í14
+í15
+Cure3
+Bolt3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ENCOUNT ERROR
+If you found this message
+then please call staff
+monster“Not a probrem”
+monster“I'm sorry”
+monster“That's too bad”
+------------------------------
+# File 250
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 251
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 252
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 253
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 254
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+# File 255
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------

@@ -1,0 +1,767 @@
+Kamu mau intirahat
+dari bermain Final Fantasy VII
+dan kembali ke Windowsmu?
+Ya
+No
+Tema Window
+Suara
+Controller
+Kursor
+ATB
+Battle speed
+Battle message
+Field message
+Angle kamera
+Pilih
+Batal
+Menu
+Normal
+Kustomisasi
+Awal
+Memory
+Aktif
+Rekomendasi
+Tunggu
+Auto
+Fixed
+Slow
+Fast
+Magic order
+restore
+attack
+indirect
+No.
+MERAH
+HIJAU
+BIRU
+Atur Volume & Musik
+Tidak didukung.
+Item
+Magic
+Materia
+Gunakan
+Status
+Pimpin
+Limit
+Konfigurasi
+PHS
+Save
+Keluar
+Beginner
+Time
+Gil
+Level selanjutnya
+Limit level
+Tutorial
+NAIK LEVEL
+Fury
+Sadness
+Tekan [CANCEL] untuk mengakhiri.
+Tekan [OK] untuk mengatur kunci.
+Sekarang tekan kunci baru.
+[OK]
+[CANCEL]
+[MENU]
+[SWITCH]
+[PAGEUP]
+[PAGEDOWN]
+[CAMERA]
+[TARGET]
+[ASSIST]
+[START]
+[UP]
+[DOWN]
+[LEFT]
+[RIGHT]
+KEYBOARD
+JOYSTICK
+ESCAPE
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+MINUS
+EQUALS
+BACK SPACE
+TAB
+Q
+W
+E
+R
+T
+Y
+U
+I
+O
+P
+LEFT BRACKET
+RIGHT BRACKET
+RETURN
+LEFT CONTROL
+A
+S
+D
+F
+G
+H
+J
+K
+L
+SEMICOLON
+APOSTROPHE
+GRAVE
+LEFT SHIFT
+BACK SLASH
+Z
+X
+C
+V
+B
+N
+M
+COMMA
+PERIOD
+SLASH
+RIGHT SHIFT
+MULTIPLY
+LEFT ALT
+SPACE
+CAPS LOCK
+F1
+F2
+F3
+F4
+F5
+F6
+F7
+F8
+F9
+F10
+NUMLOCK
+SCROLL
+NUMPAD7
+NUMPAD8
+NUMPAD9
+SUBTRACT
+NUMPAD4
+NUMPAD5
+NUMPAD6
+ADD
+NUMPAD1
+NUMPAD2
+NUMPAD3
+NUMPAD0
+DECIMAL
+F11
+F12
+F13
+F14
+F15
+KANA
+CONVERT
+NOCONVERT
+YEN
+NUMPADEQUALS
+CIRCUMFLEX
+AT
+COLON
+UNDERLINE
+KANJI
+STOP
+AX
+UNLABELED
+NUMPADENTER
+RIGHT CONTROL
+NUMPADCOMMA
+DIVIDE
+SYSRQ
+RIGHT ALT
+HOME
+UP
+PAGE UP
+LEFT
+RIGHT
+END
+DOWN
+PAGE DOWN
+INSERT
+DELETE
+LEFT WIN
+RIGHT WIN
+APPS
+MOUSE_B1
+MOUSE_B2
+MOUSE_B3
+UP
+DOWN
+LEFT
+RIGHT
+BUTTON 1
+BUTTON 2
+BUTTON 3
+BUTTON 4
+BUTTON 5
+BUTTON 6
+BUTTON 7
+BUTTON 8
+BUTTON 9
+BUTTON 10
+Pause
+Sleep
+Poison
+Sadness
+Fury
+Confusion
+Silence
+Haste
+Slow
+Stop
+Petrify
+Regen
+Reflect
+Shield
+Berserk
+Peerless
+Paralyze
+Darkness
+How much will you raise?
+Gil
+Setelah
+Gil di tangan
+Teruskan?
+Tentu saja!     Tidak!
+Point Battle sekarang
+Slot mulai!
+BAGUS!!
+Kalau begitu, lakukan!
+Magic Materia rusak.
+Summon Materia rusak.
+Support Materia rusak.
+Independent Materia rusak.
+Command Materia rusak.
+All Materia rusak.
+Accessory rusak.
+Item command disegel.
+Armor rusak.
+Senjata rusak.
+1/2 speed.
+1/2 accuracy.
+Minimum
+Poison
+Toad
+Time x30 damage.
+Turun 5 level.
+Turun 10 level.
+1/2 HP.
+1/2 MP.
+1/2 HP&MP.
+NOL MP.
+Ya! Tidak ada handicapp!
+HP pulih.
+Khawatir dengan anggota lainnya?
+Yeah, sedikit
+Gak terlalu
+Save
+Pembaruan
+Bagi kelompokmu menjadi dua kelompok.
+Split your allies into three groups.
+Buatlah tim untuk dua orang.
+Buatlah tim untuk tiga orang.
+Select with START button.
+Wpn.
+Arm.
+Acc.
+LEVEL 1
+LEVEL 2
+LEVEL 3
+LEVEL 4
+Atur BREAK LEVEL.
+Atur
+Cek
+Untuk mengubah BREAK LEVEL,
+Akan mulai dari 0 Limit Point.
+Ubah BREAK LEVEL?
+Ya
+Tidak
+Limit diatur!
+Pilih LEVEL.
+Fire
+Ice
+Lightning
+Earth
+Poison
+Gravity
+Water
+Wind
+Holy
+Death
+Near-death
+Sleep
+Poison
+Sadness
+Fury
+Confusion
+Silence
+Haste
+Slow
+Stop
+Frog
+Small
+Slow-numb
+Petrify
+Regen
+Barrier
+MBarrier
+Reflect
+Shield
+Death-sentence
+Manipulate
+Berserk
+Peerless
+Paralyzed
+Darkness
+Element
+Effect
+Attack
+Defend
+Halve
+Invalid
+Absorb
+Strength
+Dexterity
+Vitality
+Magic
+Spirit
+Luck
+Attack
+Attack%
+Defense
+Defense%
+Magic atk
+Magic def
+Magic def%
+Wpn:
+Arm:
+Acc:
+Limit level:
+Wpn.
+Arm.
+Acc.
+Attack
+Attack %
+Defense
+Defense %
+Magic atk
+Magic def
+Magic def%
+Slot
+Growth
+Tidak ada
+Normal
+Double
+Triple
+Do you really want to remove this?
+Sudah pasti!
+Tunggu sebentar
+Sephiroth“……”
+Wpn.
+Arm.
+Ability list
+Equip effect
+Check
+Arrange
+AP
+To next level
+MASTER
+Arrange
+Exchange
+Remove all
+Trash
+Dexterity
+Cover
+Magic
+Luck
+MASTER
+Strength
+Vitality
+Magic
+Magic def
+Dexterity
+Luck
+MaxHP
+MaxMP
+MaxHPUP
+MaxMPUP
+EXP.UP
+Gil UP
+Encount Down
+Encount Up
+Meet Chocobos
+Pre-emptive
+Long range attack
+Attack all
+Counter attack
+Magic
+Summon
+Enemy-Skill
+Added-Ability
+All
+4x-M
+Absorb MP
+Absorb HP
+Steal as well
+Extra cut
+Turbo MP
+Nothing.
+Not enough MP.
+Use
+Arrange
+Key Items
+Customize
+Field
+Battle
+Throw
+Type
+Name
+Most
+Least
+OK! Got it!
+I'm not sure but…
+Don't really care.
+Heh! No sweat!
+D-d-d-damn! My head hurts!
+Got nuthin' to do with me!
+Hmm, so that's it.
+I'm not too sure but…
+I've got the wrong person.
+This should be okay.
+Not quite ready yet.
+It isn't me.
+Right, I've got it!
+I don't get it.
+It has nothing to do with me.
+Cool! This should do it!
+Nope! I don't get it!
+Oh wow, I'm totally clueless!
+I'm getting less human…
+I'm still not ready.
+It has nothing to do with me.
+Hey I like this! Lemme use it!
+Hmph. Don't quite get it but…
+Not me! Give it to someone else!
+It's got nothing to do with me.
+Cloud
+Barret
+Tifa
+Aeris
+Red XIII
+Yuffie
+Cait Sith
+Vincent
+Cid
+Choco
+Space
+Delete
+Select
+Default
+Cancel
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+,
+.
++
+-
+a
+b
+c
+d
+e
+f
+g
+h
+i
+j
+k
+l
+m
+n
+o
+p
+q
+r
+s
+t
+u
+v
+w
+x
+y
+z
+:
+;
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+Ability list
+Equip effect
+AP
+To next level
+MASTER
+Dexterity
+Cover
+Magic
+Luck
+MASTER
+Strength
+Vitality
+Magic
+Magic def
+Dexterity
+Luck
+MaxHP
+MaxMP
+MaxHPUP
+MaxMPUP
+EXP.UP
+Gil UP
+Encount Down
+Encount Up
+Meet Chocobos
+Pre-emptive
+Long range attack
+Attack all
+Counter attack
+A
+D
+Buy   Sell     Exit
+Gil
+Owned
+Equipped
+Total
+How many
+Item      Materia
+Gil remaining
+Price for Master
+Price through AP
+Nothing
+Normal
+Double
+Triple
+Weapon Shop
+Item Shop
+Materia Shop
+General Store
+Vegetable Store
+Accessory Shop
+Tool Shop
+Hotel Shop
+Welcome!
+What would you like to buy?
+How many would you like?!
+What would you like to sell?!
+How many would you like to sell?!
+Load
+Select a save data file.
+Select a save game.
+Loading. Please wait.
+Saving. Please wait.
+EMPTY
+GAME
+Continue?
+Checking Save Data File.
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10
+11
+12
+13
+14
+15
+Saved.
+Could not save.
+Could not load.
+Data is ruined.
+NEW GAME
+Are you sure you want to save?
+Yes
+No
+Completed.
+Formatted.
+Could not format.
+Not formatted.
+Want to format it now?
+No save data file.
+No save data file.
+This Memory card is damaged and cannot be used.
+Please insert another Memory card.
+Not enough space left on save data file.
+Use another save data file,
+or erase 1 block of saved data.
+Couldn't read it.
+Still want to begin the game?
+Can not allocate save file memory buffer!
+Invalid save file!
+Save 1   
+Save 2   
+Save 3   
+Save 4   
+Save 5   
+Save 6   
+Save 7   
+Save 8   
+Save 9   
+Save 10
+Level
+00'00"000
+--'--"---
+COURSE A RECORD
+00'00"000
+--'--"---
+BEST
+CONTINUE
+RETRY
+EXIT
+OPTION
+CONTINUE
+RETRY
+EXIT
+GHOST
+SURFACE
+OFF
+BOARD
+SLEIGH
+? ? ?
+SNOW
+CHECKED
+TRY AGAIN
+EXIT
+TECHNIQUE
+TIME
+BALLOON
+TOTAL
+BEST
+/30 PTS.
+/30 PTS.
+/40 PTS.
+/# PTS.
+/# PTS.
+1ST.
+2ND.
+3RD.
+4TH.
+5TH.
+TEIOH
+Sprint Shoes
+Counter
+Magic Counter
+Precious Watch
+Ether
+Hero Drink
+Bolt Plume
+Elixir
+Fire Fang
+Antarctic Wind
+Potion
+Phoenix Down
+Hyper
+Tranquilizer
+Cat's Bell
+Enemy Away
+Sneak Attack
+Chocobracelet
+Swift Bolt
+Fire Veil
+Megalixir
+Turbo Ether
+Hi-Potion
+Ice Crystal
+SAM
+ELEN
+BLUES
+TOM
+JOHN
+GARY
+MIKE
+SANDY
+JU
+LY
+JOEL
+GREY
+EDWARD
+JAMES
+HARVEY
+DAN
+RUDY
+GRAHAM
+FOX
+CLIVE
+SEAN
+YOUNG
+ROBIN
+DARIO
+K
+ARL
+SARA
+MARIE
+SAMMY
+LIA
+KNIGHT
+PAULA
+PAU
+LE
+PETER
+AIMEE
+TERRY
+ANDY
+NANCY
+TIM
+ROBER
+T
+GEORGE
+JENNY
+RICA
+JULIA

@@ -1,0 +1,243 @@
+Midgar Area
+------------------------------
+Grasslands Area
+------------------------------
+Junon Area
+------------------------------
+Corel Area
+------------------------------
+Gold Saucer Area
+------------------------------
+Gongaga Area
+------------------------------
+Cosmo Area
+------------------------------
+Nibel Area
+------------------------------
+Rocket Launch Pad Area
+------------------------------
+Wutai Area
+------------------------------
+Woodlands Area
+------------------------------
+Icicle Area
+------------------------------
+Mideel Area
+------------------------------
+North Corel Area
+------------------------------
+Cactus Island
+------------------------------
+Goblin Island
+------------------------------
+Round Island
+------------------------------
+Sea
+------------------------------
+Bottom of the Sea
+------------------------------
+Glacier
+------------------------------
+#xywh 100 160 120 2 
+{CLOUD}
+“Kita bergerak!?”
+------------------------------
+#xywh 110 160 100 2 
+{CLOUD}
+“Ini buruk!”
+------------------------------
+#xywh 70 160 180 3 
+{CLOUD}
+“Hoo boy… Kita tidak mungkin
+    bisa menyeberang sekarang.”
+------------------------------
+#xywh 30 160 260 3 
+{CLOUD}
+“Bahkan Chocobo pun tak bisa menyeberang…
+    Tidak ada kah kendaraan yang lebih kuat?”
+------------------------------
+#xywh 100 160 120 2 
+{TIFA}
+“Haa? Apa!?”
+------------------------------
+#xywh 85 160 150 2 
+{TIFA}
+“T, Tunggu sebentar!”
+------------------------------
+#xywh 27 160 265 3 
+{TIFA}
+“Fiuh…Pasirnya mengalir seperti sungai…
+    Kurasa kita gak bisa masuk.”
+------------------------------
+#xywh 30 160 260 3 
+{TIFA}
+“Bahkan Chocobo pun gak bisa nyeberang…
+    Jangan lewat sini.”
+------------------------------
+#xywh 85 160 150 2 
+{CID}
+“Whoa, whoa, whoa!”
+------------------------------
+#xywh 73 160 174 2 
+{CID}
+“Sial…Ini sebuah masalah!”
+------------------------------
+#xywh 80 160 160 2 
+{CID}
+“Kau pasti bercanda.”
+------------------------------
+#xywh 27 160 265 2 
+{CID}
+“Bahkan Chocobo pun tak bisa menyeberang.”
+------------------------------
+#xywh 118 160 84 1 
+“Wark!?”
+------------------------------
+#xywh 88 160 144 1 
+“Wark! Waaaark!!”
+------------------------------
+#xywh 137 160 46 1 
+“!?”
+------------------------------
+#xywh 60 160 200 2 
+{CLOUD}
+“Ya ampun… Berhenti? Sekarang?”
+------------------------------
+#xywh 80 160 160 2 
+{TIFA}
+“Hei… Kenapa berhenti!?”
+------------------------------
+#xywh 20 160 280 3 
+{CID}
+“*&$*&
+    Sial! Kau pikir aku akan menyerah!?”
+------------------------------
+#xywh 60 160 200 3 
+{CLOUD}
+“…Aku merasa
+    Aku melupakan sesuatu…”
+------------------------------
+#xywh 70 160 180 3 
+{CLOUD}
+“Hei, bisakah kau diam di sana sebentar?”
+------------------------------
+#xywh 50 160 220 2 
+{TIFA}
+“…Coba lihat… Tadi aku kemana…?”
+------------------------------
+#xywh 55 160 210 3 
+{TIFA}
+“Chocobo, tolong tunggu sebentar, ya?”
+------------------------------
+#xywh 40 160 240 3 
+{CLOUD}
+“…Salju…sejauh mata memandang…
+    Lebih baik perhatikan ke mana aku berjalan.”
+------------------------------
+#xywh 60 160 200 4 
+{CLOUD}
+“Sekarang untuk Chocobonya…”
+          Kirim kembali ke kandang
+          Lepaskan dia
+------------------------------
+{CLOUD}
+“Hati hati.”
+------------------------------
+#xywh 25 160 270 4 
+{TIFA}
+“Coba lihat… Haruskah aku:”
+          Kembalikan Chocobo ke kandang
+          Melepaskannya
+------------------------------
+{TIFA}
+“Bye. Jaga dirimu.”
+------------------------------
+#xywh 60 160 200 4 
+{CID}
+“Ok, Chocobo, aku akan…”
+          Mengirimmu ke kandang
+          Melepaskanmu
+------------------------------
+{CID}
+“Jaga dirimu, cah.”
+------------------------------
+#xywh 30 160 260 2 
+{CLOUD}
+“…Pertama, aku harus melakukan sesuatu tentangnya”
+------------------------------
+#xywh 80 160 180 2 
+{TIFA}
+“Aku gak bisa ninggalin dia kaya gini”
+------------------------------
+#xywh 35 160 250 2 
+{CID}
+"Sialan! akan ku tangkap apa pun yang terjadi!"
+------------------------------
+#xywh 20 160 280 3 
+{CLOUD}
+“…Aku akan menempatkan tanda, dan mulai berjalan.
+    (Tekan tombol {CYAN}[OK]{WHITE} untuk menempatkan tanda)”
+------------------------------
+#xywh 40 5 240 4 
+[Save di World Map]
+Di World Map,
+Akses ke Menu dan pilih
+{PURPLE}[SAVE]{WHITE} untuk save game.
+------------------------------
+#xywh 60 160 200 4 
+{CID}
+“Ap, Apa apaan itu!?
+    Itu lewat ngedenung di sini
+    kaya mesin ferarri!”
+------------------------------
+#xywh 122 160 76 2 
+{CLOUD}
+“…………?”
+------------------------------
+#xywh 90 160 140 2 
+{CLOUD}
+“Ap, apa yang…!?”
+------------------------------
+#xywh 20 5 280 8 
+Cara mengendarai buggy
+Tekan tombol {CYAN}[OK]{WHITE} untuk naik.
+Tekan tombol {CYAN}[CANCEL]{WHITE} untuk turun.
+
+Buggy bisa menyebrangi
+{PURPLE}sungai dangkal dan gurun.{WHITE}
+Kamu bahkan bisa masuk Costa del Sol dan Junon
+dengan buggy, dengan menumpang di 'Cargo Ship'.
+------------------------------
+#xywh 25 5 270 7 
+Cara menerbangkan Tiny Bronco
+Tekan tombol {CYAN}[OK]{WHITE} untuk naik.
+Tekan tombol {CYAN}[CANCEL]{WHITE} untuk turun.
+
+Tiny Bronco bisa menyebrangi
+{PURPLE}sungai dangkal dan gurun.{WHITE}
+Pemain bisa naik dan turun di pantai.
+------------------------------
+#xywh 40 5 240 5 
+Cara mengendarai Chocobo
+Tekan tombol {CYAN}[CANCEL]{WHITE} untuk turun.
+
+Chocobos akan {PURPLE}kabur
+setiap Pemain turun.{WHITE}
+------------------------------
+#xywh 60 160 200 5 
+{CID}
+“Hei, HEI!
+    Mau ngapain?
+    Menghancurkan Highwind?
+    Ayo kita bertarung di darat!”
+------------------------------
+#xywh 40 5 240 8 
+Cara mengendarai Submarine
+Tekan tombol {CYAN}[OK]{WHITE} untuk naik.
+                                       /gerak maju.
+Tekan tombol {CYAN}[CANCEL]{WHITE} untuk turun.
+                                       /tenggelam/mengapung.
+
+Pemain bisa naik dan turun{PURPLE}
+di area seperti ini.{WHITE}
+------------------------------
