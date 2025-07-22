@@ -133,13 +133,13 @@ Damage besar tanpa elemen ke satu musuh
 Damage besar ke semua musuh, abaikan pertahanan
 
 
-{RED}Serang Musuh
-{RED}Serang Musuh
-{RED}Serang Musuh
-{RED}Serang Musuh
-{RED}Serang Musuh
-{RED}Serang Musuh
-{RED}Serang Musuh
+{RED}Menyerang satu musuh
+{RED}Menyerang satu musuh
+{RED}Menyerang satu musuh
+{RED}Menyerang satu musuh
+{RED}Menyerang satu musuh
+{RED}Menyerang satu musuh
+{RED}Menyerang satu musuh
 
 
 
@@ -178,7 +178,7 @@ Damage besar ke semua musuh, abaikan pertahanan
 {RED}Menyerang semua musuh  
 {RED}Memberi damage ke semua musuh  
 {RED}Memulihkan HP semua anggota tim  
-{RED}Menghentikan dan membatasi sihir semua musuh  
+{RED}Menghentikan dan membatasi magic semua musuh  
 {RED}Menyembuhkan semua status buruk dari semua anggota tim  
 {RED}Mengisi Limit Gauge semua anggota tim (kecuali kamu)  
 {RED}Membuat semua anggota tim kebal satu kali  
@@ -294,111 +294,111 @@ Damage besar ke semua musuh, abaikan pertahanan
 ------------------------------
 # Item descriptions
 
-Restores HP by 100
-Restores HP by 500
-Fully Restores HP
-Restores MP by 100
-Fully Restores MP
-Fully Restores HP/MP
-Fully restores all members' HP/MP
-Restores life
-Cures [Poison]
-Cures [Petrify]
-Cures [Frog]
-Cures [Small]
-Cures [Silence]
-Cures [Sadness]
-Cures [Fury]
-Cures abnormal status
-Can escape from opponents during battle
-Casts [Haste] on one ally
-Raises ability once during battle
-Protects against transformations
-Explosive damage against one opponent
-Explosive damage against all opponents
-Explosive damage against all opponents
-Stops all opponents
-Uses “Death” on all opponents
-Slows all opponents
-Uses “Sleepel” on all opponents
-Uses “Silence” on all opponents
-Uses “Berserk” on all opponents
-Uses “Confu” on all opponents
-Uses “Fire2” on all opponents
-Uses “Fire3” on all opponents
-Uses “Ice2” on all opponents
-Uses “Ice3” on all opponents
-Uses “Bolt2” on all opponents
-Uses “Bolt3” on all opponents
-Uses “Quake2” on all opponents
-Uses “Quake3” on all opponents
-Uses “Bio2” on all opponents
-Uses “Bio3” on all opponents
-Uses “Comet2” on all opponents
-Drains HP out of one opponent
-Drains MP out of one opponent
-Petrifies one opponent
-Creates [Barrier] around all allies
-Creates [MBarrier] around all allies
-Uses “Reflect” on all allies
-Uses “DeSpell” on all opponents
-Uses whirlwind on all opponents
-Water damage on all opponents
-Changes one opponent to a frog
-Uses “Mini” on one opponent
-Cures [Darkness]
-Fire damage on one opponent
-Explosive damage on one opponent
-Explosive damage against one opponent
-Uses “Demi” against one opponent
-Uses “Demi2” against one opponent
-Uses [Darkness] against one opponent
-Paralyzes one opponent
-Lightning damage against all opponents
-Uses [Poison/Confu/Sleepel/Silence/Small/Frog]
-When you want a Chocobo…
-When you want a Chocobo…
-When you want a Chocobo…
-When you want a Chocobo…
-When you want a Chocobo…
-When you want a Chocobo…
-When you want a Chocobo…
-When you want a Chocobo…
-Restores ally's max HP/MP. Use at Save Point.
-Raises [Strength]
-Raises [Vitality]
-Raises [Magic Power]
-Raises [Spirit]
-Raises [Dexterity]
-Raises [Luck]
-When you want to breed Chocobos…
-When you want to breed Chocobos…
-When you want to breed Chocobos…
-When you want to breed Chocobos…
-When you want to breed Chocobos…
-When you want to breed Chocobos…
-When you want to breed Chocobos…
-When you want to breed Chocobos…
-Looks like it can start some sort of machine
-This one's a little tough…
-Learn Limit Skill “Omnislash”
-Learn Limit Skill “Catastrophe”
-Learn Limit Skill “Final Heaven”
-Learn Limit Skill “Great Gospel”
-Learn Limit Skill “Cosmo Memory”
-Learn Limit Skill “All Creation”
-Learn Limit Skill “Chaos”
-Learn Limit Skill “Highwind”
-Shinra armored ‘attack’ soldiers: 12 in the set!
-A new machine to protect the reactor!
-A perfect copy of Sephiroth's sword!
-Use this to create a SAVE Point in the ‘North Cave’
-A record of Master Dio's fiercest battles
-Dio's autograph
-Second part of Dio's diary: The Gold Saucer years
-Blooms once every 1000 years
-Calms the hearts of all who hear it
-Map of another world. It slumbers with sunken ships
+Memulihkan 100 HP
+Memulihkan 500 HP
+Memulihkan semua HP
+Memulihkan 100 MP
+Memulihkan semua MP
+Memulihkan semua HP/MP
+Memulihkan semua HP/MP seluruh tim
+Menghidupkan kembali
+Menyembuhkan [Poison]
+Menyembuhkan [Petrify]
+Menyembuhkan [Frog]
+Menyembuhkan [Small]
+Menyembuhkan [Silence]
+Menyembuhkan [Sadness]
+Menyembuhkan [Fury]
+Menyembuhkan status abnormal
+Bisa kabur dari musuh saat Battle
+Menggunakan [Haste] pada satu sekutu
+Meningkatkan ability sekali saat battle
+Melindungi dari transformasi
+Damage eksplosif pada satu musuh
+Damage eksplosif pada semua musuh
+Damage eksplosif pada semua musuh
+Menghentikan semua musuh
+Menggunakan “Death” pada semua musuh
+Memperlambat semua musuh
+Menggunakan “Sleepel” pada semua musuh
+Menggunakan “Silence” pada semua musuh
+Menggunakan “Berserk” pada semua musuh
+Menggunakan “Confu” pada semua musuh
+Menggunakan “Fire2” pada semua musuh
+Menggunakan “Fire3” pada semua musuh
+Menggunakan “Ice2” pada semua musuh
+Menggunakan “Ice3” pada semua musuh
+Menggunakan “Bolt2” pada semua musuh
+Menggunakan “Bolt3” pada semua musuh
+Menggunakan “Quake2” pada semua musuh
+Menggunakan “Quake3” pada semua musuh
+Menggunakan “Bio2” pada semua musuh
+Menggunakan “Bio3” pada semua musuh
+Menggunakan “Comet2” pada semua musuh
+Menguras HP dari satu musuh
+Menguras MP dari satu musuh
+Membatu satu musuh
+Membuat [Barrier] untuk semua sekutu
+Membuat [MBarrier] untuk semua sekutu
+Menggunakan “Reflect” pada semua sekutu
+Menggunakan “DeSpell” pada semua musuh
+Menggunakan pusaran angin pada semua musuh
+Damage Air pada semua musuh
+Mengubah satu musuh jadi katak
+Menggunakan “Mini” pada satu musuh
+Menyembuhkan [Darkness]
+Damage Api pada satu musuh
+Damage eksplosif pada satu musuh
+Damage eksplosif pada satu musuh
+Menggunakan “Demi” pada satu musuh
+Menggunakan “Demi2” pada satu musuh
+Menggunakan [Darkness] pada satu musuh
+Melumpuhkan satu musuh
+Damage Petir pada semua musuh
+Menggunakan [Poison/Confu/Sleepel/Silence/Small/Frog]
+Buat panggil Chocobo…
+Buat panggil Chocobo…
+Buat panggil Chocobo…
+Buat panggil Chocobo…
+Buat panggil Chocobo…
+Buat panggil Chocobo…
+Buat panggil Chocobo…
+Buat panggil Chocobo…
+Memulihkan max HP/MP sekutu. Pakai di Save Point
+Meningkatkan [Strength]
+Meningkatkan [Vitality]
+Meningkatkan [Magic Power]
+Meningkatkan [Spirit]
+Meningkatkan [Dexterity]
+Meningkatkan [Luck]
+Buat ternak Chocobo…
+Buat ternak Chocobo…
+Buat ternak Chocobo…
+Buat ternak Chocobo…
+Buat ternak Chocobo…
+Buat ternak Chocobo…
+Buat ternak Chocobo…
+Buat ternak Chocobo…
+Sepertinya bisa menyalakan semacam mesin
+Yang ini agak sulit…
+Mempelajari Limit Skill “Omnislash”
+Mempelajari Limit Skill “Catastrophe”
+Mempelajari Limit Skill “Final Heaven”
+Mempelajari Limit Skill “Great Gospel”
+Mempelajari Limit Skill “Cosmo Memory”
+Mempelajari Limit Skill “All Creation”
+Mempelajari Limit Skill “Chaos”
+Mempelajari Limit Skill “Highwind”
+Prajurit ‘penyerang’ lapis baja Shinra: 12 dalam satu set!
+Mesin baru untuk menjaga reaktor!
+Salinan sempurna pedang Sephiroth!
+Pakai ini untuk membuat SAVE Point di ‘North Cave’
+Rekaman pertarungan terhebat Master Dio
+Tanda tangan Dio
+Bagian kedua buku harian Dio: Tahun tahun Gold Saucer
+Mekar sekali setiap 1000 tahun
+Menenangkan hati semua yang mendengarnya
+Peta dunia lain. Tidur bersama kapal kapal yang tenggelam
 
 
 
@@ -425,7 +425,7 @@ Map of another world. It slumbers with sunken ships
 ------------------------------
 # Weapon descriptions
 
-Initial equipment
+Senjata awal
 
 
 
@@ -436,7 +436,7 @@ Initial equipment
 
 
 
-Sword is used when an ally is down
+Pedang digunakan saat sekutu tumbang
 
 
 
@@ -453,26 +453,26 @@ Sword is used when an ally is down
 
 
 
-Power up when [Near death]
-Power up when condition changes
+Meningkatkan Power saat [Near Death]
+Meningkatkan Power saat kondisi berubah
 
 
-Initial equip. Long range weapon
-Long range weapon
+Senjata awal. Senjata jarak jauh
+Senjata jarak jauh
 
 
-Long range weapon
+Senjata jarak jauh
 
-Long range weapon
-Long range weapon
-Long range weapon
+Senjata jarak jauh
+Senjata jarak jauh
+Senjata jarak jauh
 
-Long range weapon
+Senjata jarak jauh
 
-Long range weapon
+Senjata jarak jauh
 
-Long range weapon
-Long range weapon
+Senjata jarak jauh
+Senjata jarak jauh
 
 
 
@@ -482,8 +482,8 @@ Long range weapon
 
 
 
-Long range weapon
-Memento of father
+Senjata jarak jauh
+Kenang kenangan dari ayah
 
 
 
@@ -497,7 +497,7 @@ Memento of father
 
 
 
-Raises Power when you need to protect others nearby
+Meningkatkan Power saat perlu melindungi orang di sekitar
 
 
 
@@ -512,20 +512,20 @@ Raises Power when you need to protect others nearby
 
 
 
-Long range weapon
-Long range weapon
-Long range weapon
-Long range weapon
-Long range weapon
-Long range weapon
-Long range weapon
-Long range weapon
-Long range weapon
-Long range weapon
-Long range weapon
-Long range weapon
-Long range weapon
-Long range weapon
+Senjata jarak jauh
+Senjata jarak jauh
+Senjata jarak jauh
+Senjata jarak jauh
+Senjata jarak jauh
+Senjata jarak jauh
+Senjata jarak jauh
+Senjata jarak jauh
+Senjata jarak jauh
+Senjata jarak jauh
+Senjata jarak jauh
+Senjata jarak jauh
+Senjata jarak jauh
+Senjata jarak jauh
 
 
 
@@ -539,19 +539,19 @@ Long range weapon
 
 
 
-Long range weapon
-Long range weapon
-Long range weapon
-Long range weapon
-Long range weapon
-Long range weapon
-Long range weapon
-Long range weapon
-Long range weapon
-Long range weapon
-Long range weapon
-Long range weapon
-Long range weapon
+Senjata jarak jauh
+Senjata jarak jauh
+Senjata jarak jauh
+Senjata jarak jauh
+Senjata jarak jauh
+Senjata jarak jauh
+Senjata jarak jauh
+Senjata jarak jauh
+Senjata jarak jauh
+Senjata jarak jauh
+Senjata jarak jauh
+Senjata jarak jauh
+Senjata jarak jauh
 
 ------------------------------
 # Armour descriptions
@@ -578,15 +578,15 @@ Long range weapon
 
 
 
-Drains [Fire] attacks
-Drains [Cold] attacks
-Drains [Lightning] attacks
-Drains 1/2 [Fire/Cold/Lightning] attack
-Women's Armlet nullifies [Fire/Cold/Gravity/Holy]
-Man's Armlet nullifies [Lightning/Earth/Water/Poison]
+Menyerap serangan [Api]
+Menyerap serangan [Es]
+Menyerap serangan [Petir]
+Menyerap 1/2 serangan [Api/Es/Petir]
+Gelang Wanita meniadakan [Api/Es/Gravitasi/Suci]
+Gelang Pria meniadakan [Petir/Tanah/Air/Racun]
 
-Decreases all elemental attacks by 1/2
-A gorgeous watch
+Mengurangi semua serangan elemen menjadi 1/2
+Jam tangan yang keren
 
 ------------------------------
 # Accessory descriptions
@@ -598,125 +598,125 @@ A gorgeous watch
 “Dexterity” +10
 “Luck” +10
 “Power”&“Vitality” +30
-Drains [Poison] attacks, protects against [Poison]
+Menyerap serangan [Racun], melindungi dari [Racun]
 “Vitality”&“Spirit” +50
 “Magic”&“Spirit” +30
-Protects against [Poison]
-Protects against [Darkness]
-Protects against [Sleep]
-Protects against [Poison/Darkness]
-Protects against [Paralyze/Petrify/Slow-numb]
-Protects against [Frog/Small]
-Automatically put you in [Haste]
-Protects against [Berserk/Fury/Sadness]
-Protects against all abnormal status
-Nullifies [Fire] attacks
-Nullifies [Cold] attacks
-Nullifies [Lightning] attacks
-Drains [Fire/Cold/Lightning/Earth] attacks
-Protects against [Sudden Death/Petrify/Slow-numb]
-Automatically puts you in [Berserk]
-It increases each status but…
-Automatically sets up [Barrier/MBarrier]
-Restores HP as you walk
-Automatically sets up [Reflect]
-Drains Water attacks
-Increases Stealing rate
-Increases Manipulation rate
+Melindungi dari [Racun]
+Melindungi dari [Darkness]
+Melindungi dari [Sleep]
+Melindungi dari [Racun/Darkness]
+Melindungi dari [Paralyze/Petrify/Slow-numb]
+Melindungi dari [Frog/Small]
+Otomatis mengaktifkan [Haste]
+Melindungi dari [Berserk/Fury/Sadness]
+Melindungi dari semua status abnormal
+Membatalkan serangan [Api]
+Membatalkan serangan [Es]
+Membatalkan serangan [Petir]
+Menyerap serangan [Api/Es/Petir/Tanah]
+Melindungi dari [Sudden Death/Petrify/Slow-numb]
+Otomatis mengaktifkan [Berserk]
+Meningkatkan semua status, tapi…
+Otomatis mengaktifkan [Barrier/MBarrier]
+Memulihkan HP saat berjalan
+Otomatis mengaktifkan [Reflect]
+Menyerap serangan Air
+Meningkatkan rate keberhasilan mencuri
+Meningkatkan rate keberhasilan manipulasi
 ------------------------------
 # Materia descriptions
 
-Increases MP capacity
-Increases HP capacity
-Increases “Dexterity”
-Increases “Magic”
-Increases “Luck”
-Receive more EXP points
-Earn more gil after battles
-Decreases Encounter rate
-Increases Encounter rate
-Attracts Chocobos
-Increases rate of pre-emptive attacks
-Same Attack Power even from the back row
-‘All’ effects on every action
-Counter attacks when damage is incurred
-Attack all opponents
-Attacks constantly
-Protects allies when attacked
-Underwater breathing
-Exchange HP and MP levels
-Casts two Magic spells at once
-Casts two Summon spells at once
-Use two items at once
+Meningkatkan kapasitas MP
+Meningkatkan kapasitas HP
+Meningkatkan “Dexterity”
+Meningkatkan “Magic”
+Meningkatkan “Luck”
+Dapat lebih banyak poin EXP
+Dapat lebih banyak gil setelah pertarungan
+Mengurangi tingkat pertemuan musuh
+Meningkatkan tingkat pertemuan musuh
+Memancing Chocobo
+Meningkatkan tingkat serangan dadakan
+Kekuatan serangan sama meski dari baris belakang
+Efek ‘All’ pada setiap aksi
+Serangan balik saat terkena kerusakan
+Menyerang semua musuh
+Menyerang terus-menerus
+Melindungi sekutu saat diserang
+Bernapas di bawah air
+Menukar level HP dan MP
+Mengeluarkan dua magic sekaligus
+Mengeluarkan dua summon sekaligus
+Menggunakan dua item sekaligus
 
-‘All’ effects on paired Magic
-Attacks with paired Command when damage is incurred
-Counters with paired Magic/Summon when attacked
-Uses extra MP and Increases power of paired Magic
-Attack with paired Materia, absorbs MP at same time
-Attacks with paired Materia, absorbs HP at same time
-Adds Materia element to equipped weapon or armor
-Adds Materia status to equipped weapon or armor
-Pre-emptive attack with paired Materia
-Automatically uses paired Materia when disabled
-Attacks simultaneously when paired Materia is used
-Steal simultaneously when paired Materia is used
-Paired Magic used 4 times
-Equips “Steal” command
-Equips “Sense” command
+Efek ‘All’ pada magic yang dipasangkan
+Serangan balik dengan perintah yang dipasangkan saat terkena kerusakan
+Serangan balik dengan magic/summon yang dipasangkan saat diserang
+Pakai MP ekstra dan tingkatkan kekuatan magic yang dipasangkan
+Serang dengan Materia yang dipasangkan, serap MP sekaligus
+Serang dengan Materia yang dipasangkan, serap HP sekaligus
+Tambah elemen Materia ke senjata atau armor yang dipakai
+Tambah status Materia ke senjata atau armor yang dipakai
+Serangan preemptif dengan Materia yang dipasangkan
+Otomatis pakai Materia yang dipasangkan saat lumpuh
+Serang bersamaan saat Materia yang dipasangkan digunakan
+Mencuri bersamaan saat Materia yang dipasangkan digunakan
+magic yang dipasangkan digunakan 4 kali
+Melengkapi perintah “Mencuri”
+Melengkapi perintah “Sense”
 
-Equips “Throw” command
-Equips “Morph” command
-Equips “Deathblow” command
-Equips “Manipulate” command
-Equips “Mime” command
-Equips “Enemy Skill” command
-
-
-
-Equips all Commands
-Equips “Fire” magic
-Equips “Ice” magic
-Equips “Earth” magic
-Equips “Lightning” magic
-Equips “Restore” magic
-Equips “Heal” magic
-Equips “Revive” magic
-Equips “Seal” magic
-Equips “Mystify” magic
-Equips “Transform” magic
-Equips “Exit” magic
-Equips “Poison” magic
-Equips “Gravity” magic
-Equips “Barrier” magic
-
-Equips “Comet” magic
-Equips “Time” magic
+Melengkapi perintah “Lempar”
+Melengkapi perintah “Morph”
+Melengkapi perintah “Deathblow”
+Melengkapi perintah “Manipulate”
+Melengkapi perintah “Mime”
+Melengkapi perintah “Enemy Skill”
 
 
-Equips “Destruct” magic
-Equips “Contain” magic
-Equips “Full Cure” magic
-Equips “Shield” magic
-Equips “Ultima” magic
-Equips all magic
-Summons Choco/Mog
-Summons Shiva
-Summons Ifrit
-Summons Ramuh
-Summons Titan
-Summons Odin
-Summons Leviathan
-Summons Bahamut
-Summons Kujata
-Summons Alexander
-Summons Phoenix
-Summons Neo Bahamut
-Summons Hades
-Summons Typhon
-Summons Bahamut ZERO
-Summons Knights of Round
-All Summoned monsters summoned
+
+Melengkapi semua perintah
+Melengkapi magic "Api”
+Melengkapi magic "Es”
+Melengkapi magic “Tanah”
+Melengkapi magic “Petir”
+Melengkapi magic “Restore”
+Melengkapi magic “Heal”
+Melengkapi magic “Revive”
+Melengkapi magic “Seal”
+Melengkapi magic “Mystify”
+Melengkapi magic “Transform”
+Melengkapi magic “Exit”
+Melengkapi magic "Racun”
+Melengkapi magic “Gravitasi”
+Melengkapi magic “Barrier”
+
+Melengkapi magic “Comet”
+Melengkapi magic “Waktu”
+
+
+Melengkapi magic “Destruct”
+Melengkapi magic “Contain”
+Melengkapi magic “Full Cure”
+Melengkapi magic “Shield”
+Melengkapi magic “Ultima”
+Melengkapi semua magic
+Memanggil Choco/Mog
+Memanggil Shiva
+Memanggil Ifrit
+Memanggil Ramuh
+Memanggil Titan
+Memanggil Odin
+Memanggil Leviathan
+Memanggil Bahamut
+Memanggil Kujata
+Memanggil Alexander
+Memanggil Phoenix
+Memanggil Neo Bahamut
+Memanggil Hades
+Memanggil Typhon
+Memanggil Bahamut ZERO
+Memanggil Knights of Round
+Memanggil semua monster yang disummon
 
 
 
@@ -725,57 +725,57 @@ All Summoned monsters summoned
 ------------------------------
 # Key Item descriptions
 
-Cotton-woven dress
-Dress made of satin
-Dress made of silk
-Wig made from messed up hair
-Wig made of hair dyed light brown
-A blonde wig
-A glass tiara
-A ruby tiara
-A diamond tiara
-Cheap perfume
-Flower scented perfume
-A perfume that amorously arouses
-Membership card to the Honeybee Inn
-Perfumed underwear
-Panties with a childish design on them
-Tight-fitting briefs
-Can be exchanged for goods at the pharmacy
-A disinfectant
-A deodorant
-A digestive
-Materia you get at the Fort Condor Reactor
-Materia you get at the Corel Reactor
-Materia you get at the Underwater Reactor
-Materia you get from the rocket
-An old key found in the ocean
-A letter to a young girl who lives in Kalm
-A letter to a wife who lives in Kalm
-An instrument used to wake the Sleeping Forest
-Key to the basement room in the Shinra Mansion
-Opens the gate to Sector 5 in Midgar
-Allows you to go as far as the 60th floor in the Shinra Bldg.
-Allows you to go as far as the 62nd floor in the Shinra Bldg.
-Allows you to go as far as the 65th floor in the Shinra Bldg.
-Allows you to go as far as the 66th floor in the Shinra Bldg.
-Allows you to go as far as the 68th floor in the Shinra Bldg.
-Part of the Midgar city model
-Part of the Midgar city model
-Part of the Midgar city model
-Part of the Midgar city model
-Part of the Midgar city model
-Able to call your party members from long distances
-Unlimited pass to the Gold Saucer
-Key to the Temple of the Ancients
-Scales with the power of water
-A map you can use on the Great Glacier
-Can be exchanged for items
-Can be exchanged for items
-Can be exchanged for items
+Gaun anyaman katun
+Gaun dari satin
+Gaun dari sutra
+Rambut palsu yang acak-acakan
+Rambut palsu dicat cokelat muda
+Rambut palsu pirang
+Tiara kaca
+Tiara rubi
+Tiara berlian
+Parfum murahan
+Parfum beraroma bunga
+Parfum yang bikin orang tergoda
+Kartu anggota Honeybee Inn
+Pakaian dalam beraroma parfum
+Celana dalam dengan desain kekanakan
+Celana dalam ketat
+Bisa ditukar dengan barang di apotek
+Desinfektan
+Deodoran
+Obat pencernaan
+Materia dari Reaktor Fort Condor
+Materia dari Reaktor Corel
+Materia dari Underwater Reaktor
+Materia dari roket
+Kunci tua ditemukan di laut
+Surat untuk gadis muda di Kalm
+Surat untuk istri di Kalm
+Alat musik buat bangunin Sleeping Forest
+Kunci ke ruang bawah tanah di Shinra Mansion
+Membuka gerbang ke Sektor 5 di Midgar
+Mengizinkan masuk sampai lantai 60 di Gedung Shinra
+Mengizinkan masuk sampai lantai 62 di Gedung Shinra
+Mengizinkan masuk sampai lantai 65 di Gedung Shinra
+Mengizinkan masuk sampai lantai 66 di Gedung Shinra
+Mengizinkan masuk sampai lantai 68 di Gedung Shinra
+Bagian model kota Midgar
+Bagian model kota Midgar
+Bagian model kota Midgar
+Bagian model kota Midgar
+Bagian model kota Midgar
+Bisa panggil anggota tim dari jarak jauh
+Tiket masuk tanpa batas ke Gold Saucer
+Kunci ke Kuil Orang orang Ancient
+Sisik dengan kekuatan air
+Peta yang bisa dipakai di Great Glacier
+Bisa ditukar dengan barang
+Bisa ditukar dengan barang
+Bisa ditukar dengan barang
 Black Materia
-Might be of some help to you…
-Allows you to slide over the snow
+Mungkin bisa bantu kamu…
+Memungkinkan meluncur di salju
 
 
 
@@ -792,8 +792,8 @@ Allows you to slide over the snow
 ------------------------------
 # Command names
 
-Left
-Attack
+Tersisa
+Serang
 Magic
 Summon
 Item
@@ -810,8 +810,8 @@ All:
 4x:
 
 Mug
-Change
-Defend
+Ubah
+Bertahan
 Limit
 W-Magic
 W-Sum.
@@ -1585,16 +1585,16 @@ Snowboard
 # Misc battle text
 
 EXP
-Exit
-Receive all
-Received
-No items
-All allies
-All opponents
-Everyone
+Keluar
+Ambil semua
+Diterima
+Tidak ada item
+Semua sekutu
+Semua musuh
+Semuanya
 Game over……
 EXP:
-Please enter a name.
+Masukkan nama.
 FrIcLtEtPsDmWtWnHlDtReSpPoSdAnCnSiFaSlStTdMnSnDgAtMgRfAbGdCnMnBsNoPlDk
 
 
@@ -1664,49 +1664,49 @@ Pilih penempatan Magic
 
 
 
-{RED}Fail to Union.
-{RED}All Lucky 7s!
-Received {ITEM}.
-{ITEM} was stolen.
-Received {NUM} gil.
-{NUM} gil was stolen.
-Changed into {ITEM}.
-{TARGET} cannot mimic {ATTACK}.
-{TARGET} made a useless imitation.
-Couldn't manipulate.
-Manipulated {TARGET}{ID}.
-Not enough MP!!
-{TARGET}{ID}'s skill power is used up.
-Fire
-Cold
-Lightning
-Earth
-Poison
-Gravity
-Water
-Wind
-Holy power
-Restorative magic
-Cut
-Hit
-Punch
-Shoot
-Shout
+{RED}Gagal bersatu.
+{RED}Semua Lucky 7s!
+Menerima {ITEM}.
+{ITEM} dicuri.
+Menerima {NUM} gil.
+{NUM} gil dicuri.
+Berubah jadi {ITEM}.
+{TARGET} tidak bisa meniru {ATTACK}.
+{TARGET} bikin tiruan yang gak guna.
+Tidak bisa manipulasi.
+Memanipulasi {TARGET}{ID}.
+MP Kurang!!
+Kekuatan skill {TARGET}{ID} habis.
+Api
+Es
+Petir
+Tanah
+Racun
+Gravitasi
+Air
+Angin
+Holy Power
+Magic Pemulihan
+Tebas
+Pukul
+Tonjok
+Tembak
+Teriak
 
-Weak against {ELEMENT}.
+Lemah terhadap {ELEMENT}.
 Data Error
-Scene:{NUM} /Code:{NUM} 
-Push CTRL+Q to Reset.
-(Back row)
+Scene:{NUM} /Kode:{NUM} 
+Tekan CTRL+Q untuk Reset.
+(Baris belakang)
 HP:{NUM}/{NUM} 
-Learned Enemy-Skill“{ATTACK}”.
+Mempelajari Enemy-Skill “{ATTACK}”.
 {TARGET}{ID}  Level:{NUM} 
 HP:{NUM}/{NUM}  MP:{NUM}/{NUM} 
-Couldn't sense.
-Can't reach!!
+Tidak bisa sense.
+Gak nyampe!!
 
-Summon power is used up.
-{TARGET} was caught by surprise.
+Summon power habis.
+{TARGET} kaget diserang mendadak.
 
 
 
