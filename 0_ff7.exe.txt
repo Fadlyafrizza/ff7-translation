@@ -2,7 +2,7 @@ Kamu mau intirahat
 dari bermain Final Fantasy VII
 dan kembali ke Windowsmu?
 Ya
-No
+Ga
 Tema Window
 Suara
 Controller
@@ -24,9 +24,9 @@ Rekomendasi
 Tunggu
 Auto
 Fixed
-Slow
-Fast
-Magic order
+Lambat
+Cepat
+Perintah Magic
 restore
 attack
 indirect
@@ -50,7 +50,7 @@ Keluar
 Beginner
 Time
 Gil
-Level selanjutnya
+Naik level
 Limit level
 Tutorial
 NAIK LEVEL
@@ -230,7 +230,7 @@ Berserk
 Peerless
 Paralyze
 Darkness
-How much will you raise?
+Ingin menaikkan berapa banyak?
 Gil
 Setelah
 Gil di tangan
@@ -246,7 +246,7 @@ Support Materia rusak.
 Independent Materia rusak.
 Command Materia rusak.
 All Materia rusak.
-Accessory rusak.
+Aksesoris rusak.
 Item command disegel.
 Armor rusak.
 Senjata rusak.
@@ -270,13 +270,13 @@ Gak terlalu
 Save
 Pembaruan
 Bagi kelompokmu menjadi dua kelompok.
-Split your allies into three groups.
+Bagi kelompokmu menjadi tiga kelompok.
 Buatlah tim untuk dua orang.
 Buatlah tim untuk tiga orang.
-Select with START button.
-Wpn.
+Pilih dengan tombol START.
+Sjt.
 Arm.
-Acc.
+Aks.
 LEVEL 1
 LEVEL 2
 LEVEL 3
@@ -285,7 +285,7 @@ Atur BREAK LEVEL.
 Atur
 Cek
 Untuk mengubah BREAK LEVEL,
-Akan mulai dari 0 Limit Point.
+Kembali dari 0 Limit Point.
 Ubah BREAK LEVEL?
 Ya
 Tidak
@@ -346,13 +346,13 @@ Defense%
 Magic atk
 Magic def
 Magic def%
-Wpn:
+Sjt:
 Arm:
-Acc:
+Aks:
 Limit level:
-Wpn.
+Sjt.
 Arm.
-Acc.
+Aks.
 Attack
 Attack %
 Defense
@@ -361,28 +361,28 @@ Magic atk
 Magic def
 Magic def%
 Slot
-Growth
+Peningkatan
 Tidak ada
 Normal
 Double
 Triple
-Do you really want to remove this?
+Kamu ingin membuang ini?
 Sudah pasti!
 Tunggu sebentar
 Sephiroth“……”
-Wpn.
+Sjt.
 Arm.
-Ability list
-Equip effect
-Check
-Arrange
+List Ability
+Efek Equip
+Cek
+Filter
 AP
-To next level
+Naik level
 MASTER
-Arrange
-Exchange
-Remove all
-Trash
+Rapihkan
+Tukarkan
+Lepas semua
+Buang
 Dexterity
 Cover
 Magic
@@ -409,8 +409,8 @@ Attack all
 Counter attack
 Magic
 Summon
-Enemy-Skill
-Added-Ability
+Skill musuh
+Ability tambahan
 All
 4x-M
 Absorb MP
@@ -418,44 +418,44 @@ Absorb HP
 Steal as well
 Extra cut
 Turbo MP
-Nothing.
-Not enough MP.
-Use
-Arrange
-Key Items
-Customize
-Field
+Tidak ada.
+Tidak cukup MP.
+Gunakan 
+Filter
+Key Items 
+Sesuaikan
+Kapanpun
 Battle
-Throw
-Type
-Name
-Most
-Least
-OK! Got it!
-I'm not sure but…
-Don't really care.
-Heh! No sweat!
-D-d-d-damn! My head hurts!
-Got nuthin' to do with me!
-Hmm, so that's it.
-I'm not too sure but…
-I've got the wrong person.
-This should be okay.
-Not quite ready yet.
-It isn't me.
-Right, I've got it!
-I don't get it.
-It has nothing to do with me.
-Cool! This should do it!
-Nope! I don't get it!
-Oh wow, I'm totally clueless!
-I'm getting less human…
-I'm still not ready.
-It has nothing to do with me.
-Hey I like this! Lemme use it!
-Hmph. Don't quite get it but…
-Not me! Give it to someone else!
-It's got nothing to do with me.
+Lempar
+Tipe
+Nama
+Banyak
+Sedikit
+OK! Paham!
+Kurang yakin, tapi…
+Gak terlalu peduli.
+Heh! Mudah!
+S-s-s-sial! Kepalaku sakit!
+Tidak ada hubungannya dengan ku!
+Hmm, Jadi begitu.
+Kurang yakin, tapi…
+Salah orang.
+Ini seharusnya oke.
+Belum siap.
+Bukan aku.
+Benar, Aku mengerti!
+Aku gak ngerti.
+Tidak ada hubungannya dengan ku!
+Keren! Ini pasti berhasil!
+Tidak! tidak mengerti!
+Oh wow, Aku benar benar bingung!
+Aku makin tidak seperti manusia…
+Aku masih belum siap.
+Tidak ada hubungannya dengan ku.
+Hey Aku suka ini! Biar ku pakai!
+Hmph. Kurang paham, tapi…
+Bukan aku! Kasih ke orang lain!
+Tidak ada hubungannya dengan ku!
 Cloud
 Barret
 Tifa
@@ -539,10 +539,10 @@ z
 7
 8
 9
-Ability list
-Equip effect
+List Ability
+Efek Equip
 AP
-To next level
+Naik level
 MASTER
 Dexterity
 Cover
@@ -570,42 +570,42 @@ Attack all
 Counter attack
 A
 D
-Buy   Sell     Exit
+Beli   Jual     Keluar
 Gil
-Owned
-Equipped
+Dimiliki
+Digunakan
 Total
-How many
+Berapa banyak
 Item      Materia
-Gil remaining
-Price for Master
-Price through AP
-Nothing
+Gil tersisa
+Harga untuk Master
+Haraga melalui AP
+Tidak ada
 Normal
 Double
 Triple
-Weapon Shop
-Item Shop
-Materia Shop
-General Store
-Vegetable Store
-Accessory Shop
-Tool Shop
-Hotel Shop
-Welcome!
-What would you like to buy?
-How many would you like?!
-What would you like to sell?!
-How many would you like to sell?!
+Toko Senjata 
+Toko Item 
+Toko Materia 
+Toko Umum
+Toko Sayuran
+Toko Aksesoris
+Toko Peralatan
+Penginapan
+Selamat datang!
+Apa yang ingin kamu beli?
+Berapa banyak yang kamu mau?!
+Apa yang ingin kamu jual?!
+Berapa banyak yang ingin kamu jual?!
 Load
-Select a save data file.
-Select a save game.
-Loading. Please wait.
-Saving. Please wait.
-EMPTY
+Pilih file save data.
+Pilih save game.
+Loading. Tunggu sebentar.
+Saving. Tunggu sebentar.
+KOSONG
 GAME
-Continue?
-Checking Save Data File.
+Lanjutkan?
+Mencari File Save Data.
 01
 02
 03
@@ -621,30 +621,30 @@ Checking Save Data File.
 13
 14
 15
-Saved.
-Could not save.
-Could not load.
-Data is ruined.
+Disimpan.
+Tidak bisa save.
+Tidak bisa load.
+Data rusak.
 NEW GAME
-Are you sure you want to save?
-Yes
-No
-Completed.
-Formatted.
-Could not format.
-Not formatted.
-Want to format it now?
-No save data file.
-No save data file.
-This Memory card is damaged and cannot be used.
-Please insert another Memory card.
-Not enough space left on save data file.
-Use another save data file,
-or erase 1 block of saved data.
-Couldn't read it.
-Still want to begin the game?
-Can not allocate save file memory buffer!
-Invalid save file!
+Apa kamu yakin ingin save game?
+Ya
+Tidak
+Selesai.
+Diformat.
+Tidak bisa memformat.
+Tidak diformat.
+Ingin memformatnya?
+Tidak ada file save data.
+Tidak ada file save data.
+Kartu Memori ini rusak dan tidak bisa digunakan.
+Silakan masukkan Kartu Memori lain.
+Tidak cukup ruang pada file save data.
+Gunakan file save data lain,
+atau hapus 1 blok save data.
+Tidak bisa membaca.
+Masih ingin memulai game?
+Tidak bisa mengalokasikan buffer memori save file!
+Save file tidak valid!
 Save 1   
 Save 2   
 Save 3   

@@ -1,33 +1,33 @@
 # Command window descriptions
 
-Attack with equipped weapon
-Attack with equipped weapon
-Cast spell
-Call Summon Monster
-Use available item
-Steal item
-Sense opponent's HP/MP/etc
-What can I say? It's all about money
-Throw items damaging opponent
-Transform opponent into an item
-Attacks that either deal critical damage or miss
-You control opponent's movements
-Mimics attack immediately before your command
-Use enemy skills used on you
+Serang dengan senjata yang dipasang
+Serang dengan senjata yang dipasang
+Gunakan *Mantra
+Panggil monster Summon
+Gunakan item yang ada
+Curi item
+Lihat HP/MP/dll milik musuh
+Apa boleh buat? Semua demi uang
+Lempar item untuk melukai musuh
+Ubah musuh menjadi item
+Serangan bisa menjadi critical atau meleset
+Kendalikan gerakan musuh
+Meniru serangan sebelumnya
+Gunakan skill musuh yang pernah diterima
 
 
 
-Steals from opponent at a given rate while attacking
-Change position to or from front/back row
-Defend without attacking
-Use a limit skill
-Casts two Magic spells at once
-Casts two Summon spells at once
-Use two items at once
-Attack all opponents
-Attacks constantly
-Instantly kills opponent
-Four consecutive cuts
+Mencuri dari musuh saat menyerang dengan rate tertentu
+Ganti posisi ke barisan depan atau belakang
+Bertahan tanpa menyerang
+Gunakan limit skill
+Gunakan dua Magic secara bersamaan
+Gunakan dua Summon sekaligus
+Gunakan dua Item sekaligus
+Serang semua musuh sekaligus
+Terus menyerang berulang kali
+Langsung membunuh musuh seketika
+Empat serangan berturut turut
 
 
 
@@ -35,114 +35,111 @@ Four consecutive cuts
 ------------------------------
 # Magic, summon, enemy skill, limit break descriptions
 
-Restores HP
-Restores HP
-Restores HP
-Gradually restores HP
-Heals Poison
-Cures unusual status
-Makes you resistant to transformation
-Restores life
-Restores life and all HP
-Induces or cures a [Small] state
-Induces or cures a [Frog] state
-Puts opponent to Sleep
-Confuses opponent
-Constrains magic
-Causes opponent to go berserk
-Creates a Barrier resistant to physical attacks
-Creates a Barrier resistant to magic attacks
-Can reflect magic spells back up to 4 times
-Creates [Barrier/MBarrier] simultaneously
-Increases speed
-Decreases speed
-Stops all movement
-Destroys function of any barriers
-Makes magic ineffective
-Causes sudden death
-Lets you escape from battle
-Eliminates opponent from battle
-Fire element attack
-Fire element attack
-Fire element attack
-Ice element attack
-Ice element attack
-Ice element attack
-Lightning element attack
-Lightning element attack
-Lightning element attack
-Earth element attack
-Earth element attack
-Earth element attack
-Poison element attack
-Poison element attack
-Poison element attack
-Gravity-based attack. HP at 3/4
-Gravity-based attack. HP at 1/2
-Gravity-based attack. HP at 1/4
-Non-elemental attack
-Non-elemental attack
-Very strong Ice magic. Sometimes causes [Stop]
-Very strong Earth magic. Sometimes causes [Petrify]
-Wind elemental attack. Sometimes causes [Confu]
-Fire element attack
-Restores entire HP
-Extreme magic attack
-Extreme magic defense
+Memulihkan HP
+Memulihkan HP
+Memulihkan HP
+Memulihkan HP secara bertahap
+Menyembuhkan Poison
+Menyembuhkan status abnormal
+Kebal terhadap transformasi
+Menghidupkan kembali
+Menghidupkan kembali dan Semua HP
+Menyebabkan atau menyembuhkan status [Small]
+Menyebabkan atau menyembuhkan status [Frog]
+Membuat musuh Tidur
+Membingungkan musuh
+Membatasi magic
+Membuat musuh menjadi gila
+Membuat perisai tahan serangan Fisik
+Membuat perisai tahan serangan Magic
+Memantulkan Magic kembali hingga 4 kali
+Membuat [Barrier/MBarrier] sekaligus
+Meningkatkan kecepatan
+Menurunkan kecepatan
+Menghentikan semua gerakan
+Menghancurkan semua perisai
+Membuat Magic tidak efektif
+Menyebabkan kematian mendadak
+Memungkinkan kabur dari Battle
+Mengeliminasi musuh dari Battle
+Serangan elemen Api
+Serangan elemen Api
+Serangan elemen Api
+Serangan elemen Es
+Serangan elemen Es
+Serangan elemen Es
+Serangan elemen Petir
+Serangan elemen Petir
+Serangan elemen Petir
+Serangan elemen Tanah
+Serangan elemen Tanah
+Serangan elemen Tanah
+Serangan elemen Racun
+Serangan elemen Racun
+Serangan elemen Racun
+Serangan berbasis Gravitasi. HP jadi 3/4
+Serangan berbasis Gravitasi. HP jadi 1/2
+Serangan berbasis Gravitasi. HP jadi 1/4
+Serangan tanpa elemen
+Serangan tanpa elemen
+Magic Es super kuat. Kadang menyebabkan [Stop]
+Magic Tanah super kuat. Kadang menyebabkan [Petrify]
+Serangan elemen Angin. Kadang menyebabkan [Confu]
+Serangan elemen Api
+Memulihkan semua HP
+Serangan Magic ekstrem
+Pertahanan Magic ekstrem
 
 
-Attacks all opponents. Sometimes causes [Stop]
-Ice magic damage on all opponents
-Fire magic damage on all opponents
-Lightning magic damage on all opponents
-Damages all opponents on the ground
-Slashes all opponents
-Water Magic damage on all opponents
-Unblockable Non-Elemental attack
-Causes [Fire/Ice/Lightning] magic damage
-Causes Holy Magic damage on all opponents
-Causes Fire Magic damage, and revives all allies
-Unblockable Non-Elemental attack
-Changes status of all opponents
-Causes [Fire/Ice/Lightning/Earth] magic damage
-Unblockable Non-Elemental attack
-Extreme summoned monsters
-Causes [Sleepel/Frog] on one opponent
-Causes [Critical/Small] with levels in multiples of 4
-Drains 100 MP out of every opponent
-Restores HP and status to every ally
-Adds [Barrier/MBarrier/Haste] to every ally
-Revives, restores HP and status to any one ally
-Raises the Defense and Magic Def. level of one ally
-Makes any one ally immune to death
-Causes Fire damage to any single opponent
-Lessens one opponent's HP by 1/2
-Non-elemental damage to all opponents
-[Poison/Confu/Sleepel/Silence/Small/Frog] on all
-Fire damage on all opponents
-Water damage on all opponents
-Lightning damage on all opponents
-[Fire/Ice/Lightning] damage on all opponents
-Does damage equal to user's MaxHP/HP
-Non-elemental damage on any one opponent
-Non-elemental damage on any one opponent
-Causes [Death] on levels in multiples of 5
-Pronounces death sentence on any one opponent
-Pronounces death on any one opponent or ally
-Big non-elemental damage on any one opponent
-Big damage on all opponents, ignores defense
+Menyerang semua musuh. Kadang menyebabkan [Stop]
+Magic Damage Es ke semua musuh
+Magic Damage Api ke semua musuh
+Magic Damage Petir ke semua musuh
+Damage semua musuh di tanah
+Menebas semua musuh
+Magic Damage Air ke semua musuh
+Serangan tanpa elemen, tidak bisa diblok
+Menyebabkan Magic Damage [Api/Es/Petir]
+Menyebabkan Magic Damage Holy ke semua musuh
+Magic Damage Api, dan menghidupkan semua sekutu
+Serangan tanpa elemen, tidak bisa diblok
+Mengubah status semua musuh
+Menyebabkan Magic Damage [Api/Es/Petir/Tanah]
+Serangan tanpa elemen, tidak bisa diblok
+Monster panggilan super kuat
+Menyebabkan [Sleepel/Frog] pada satu musuh
+Menyebabkan [Critical/Small] pada level kelipatan 4
+Menguras 100 MP dari setiap musuh
+Memulihkan HP dan status semua sekutu
+Menambahkan [Barrier/MBarrier/Haste] kesemua sekutu
+Menghidupkan kembali, memulihkan HP dan status satu sekutu
+Meningkatkan level Pertahanan dan Pertahanan Magic satu sekutu
+Membuat satu sekutu kebal terhadap kematian
+Damage Api ke satu musuh
+Mengurangi HP satu musuh jadi 1/2
+Damage tanpa elemen ke semua musuh
+[Poison/Confu/Sleepel/Silence/Small/Frog] ke semua
+Damage Api ke semua musuh
+Damage Air ke semua musuh
+Damage Petir ke semua musuh
+Damage [Api/Es/Petir] ke semua musuh
+Damage sama dengan MaxHP/HP pengguna
+Damage tanpa elemen ke satu musuh
+Damage tanpa elemen ke satu musuh
+Menyebabkan [Kematian] pada level kelipatan 5
+Mengucapkan vonis kematian pada satu musuh
+Mengucapkan kematian pada satu musuh atau sekutu
+Damage besar tanpa elemen ke satu musuh
+Damage besar ke semua musuh, abaikan pertahanan
 
 
-{RED}Attack an opponent
-{RED}Attack an opponent
-{RED}Attack an opponent
-{RED}Attack an opponent
-{RED}Attack an opponent
-{RED}Attack an opponent
-{RED}Attack an opponent
-
-
-
+{RED}Serang Musuh
+{RED}Serang Musuh
+{RED}Serang Musuh
+{RED}Serang Musuh
+{RED}Serang Musuh
+{RED}Serang Musuh
+{RED}Serang Musuh
 
 
 
@@ -163,62 +160,65 @@ Big damage on all opponents, ignores defense
 
 
 
-{RED}Attacks one opponent
-{RED}Attacks and paralyzes one opponent
-{RED}Diffuses after hitting one opponent
-{RED}Attacks one opponent
-{RED}Attacks all opponents
-{RED}Blows away all opponents
-{RED}Slices up all opponents
-{RED}Attacks one opponent
-{RED}Attacks all opponents
-{RED}Reduces one opponent's MP
-{RED}Blows away one opponent
-{RED}Attacks all opponents
-{RED}Attacks all opponents
-{RED}Damages all opponents
-{RED}Restores HP of all allies
-{RED}Constrains and stop the magic of all opponents
-{RED}Cures all status ailments of all allies
-{RED}Raises party's Limit guage to the max, except yours
-{RED}Makes all allies invincible one time
-{RED}Fully restores all allies
-{RED}Fully restores all allies, makes them invincible one time
-{RED}Attack an opponent
-{RED}Attack an opponent
-{RED}Attack an opponent
-{RED}Attack an opponent
-{RED}Attack an opponent
-{RED}Attack an opponent
-{RED}Attack an opponent
-{RED}Attack an opponent
-{RED}Attacks and drains the HP/MP from one opponent
-{RED}Attacks all opponents, sometimes dealing [Death]
-{RED}Attacks all opponents
-{RED}Continuously attacks, sometimes dealing [Death]
-{RED}Attacks all opponents
-{RED}Causes big damage to all opponents
-{RED}Attacks one opponent
-{RED}Begins fighting wildly
-{RED}Attacks and drains the HP/MP from one opponent
-{RED}Attacks all opponents
-{RED}Casts [Haste] and raises “Defense %” for all allies
-{RED}Attacks all opponents
-{RED}Attacks all opponents
-{RED}Rolls the dice, damage
 
-{RED}What'll come out next…?
-{RED}Turns into Galian Beast!
-{RED}Turns into Death Gigas!
-{RED}Turns into Hellmask!
-{RED}Transforms to Chaos!
-{RED}Attacks opponent with weapon after cutting them
-{RED}Restores HP of all allies
-{RED}Attacks all opponents
-{RED}Continuously attacks all opponents
-{RED}Attacks all opponents
-{RED}Continuously attacks opponents
-{RED}Attacks all opponents
+
+
+{RED}Menyerang satu musuh  
+{RED}Menyerang dan melumpuhkan satu musuh  
+{RED}Meledak setelah mengenai satu musuh  
+{RED}Menyerang satu musuh  
+{RED}Menyerang semua musuh  
+{RED}Meniup semua musuh keluar dari pertempuran  
+{RED}Menebas semua musuh  
+{RED}Menyerang satu musuh  
+{RED}Menyerang semua musuh  
+{RED}Mengurangi MP satu musuh  
+{RED}Meniup keluar satu musuh  
+{RED}Menyerang semua musuh  
+{RED}Menyerang semua musuh  
+{RED}Memberi damage ke semua musuh  
+{RED}Memulihkan HP semua anggota tim  
+{RED}Menghentikan dan membatasi sihir semua musuh  
+{RED}Menyembuhkan semua status buruk dari semua anggota tim  
+{RED}Mengisi Limit Gauge semua anggota tim (kecuali kamu)  
+{RED}Membuat semua anggota tim kebal satu kali  
+{RED}Memulihkan seluruh HP semua anggota tim  
+{RED}Memulihkan seluruh HP dan membuat semua anggota tim kebal satu kali  
+{RED}Menyerang satu musuh  
+{RED}Menyerang satu musuh  
+{RED}Menyerang satu musuh  
+{RED}Menyerang satu musuh  
+{RED}Menyerang satu musuh  
+{RED}Menyerang satu musuh  
+{RED}Menyerang satu musuh  
+{RED}Menyerang satu musuh  
+{RED}Menyerang dan menyerap HP/MP dari satu musuh  
+{RED}Menyerang semua musuh, kadang menyebabkan [Kematian]  
+{RED}Menyerang semua musuh  
+{RED}Menyerang terus-menerus, kadang menyebabkan [Kematian]  
+{RED}Menyerang semua musuh  
+{RED}Menimbulkan damage besar ke semua musuh  
+{RED}Menyerang satu musuh  
+{RED}Mulai menyerang secara brutal  
+{RED}Menyerang dan menyerap HP/MP dari satu musuh  
+{RED}Menyerang semua musuh  
+{RED}Menggunakan [Haste] dan meningkatkan Defense %” seluruh tim  
+{RED}Menyerang semua musuh  
+{RED}Menyerang semua musuh  
+{RED}Melempar dadu, memberikan damage  
+
+{RED}Apa yang akan keluar berikutnya…?  
+{RED}Berubah menjadi Galian Beast!  
+{RED}Berubah menjadi Death Gigas!  
+{RED}Berubah menjadi Hellmask!  
+{RED}Berubah menjadi Chaos!  
+{RED}Menyerang musuh dengan senjata setelah menebas mereka  
+{RED}Memulihkan HP semua anggota tim  
+{RED}Menyerang semua musuh  
+{RED}Menyerang terus menerus ke semua musuh  
+{RED}Menyerang semua musuh  
+{RED}Menyerang terus menerus ke musuh  
+{RED}Menyerang semua musuh  
 
 
 
@@ -1600,55 +1600,55 @@ FrIcLtEtPsDmWtWnHlDtReSpPoSdAnCnSiFaSlStTdMnSnDgAtMgRfAbGdCnMnBsNoPlDk
 
 
 
-Gained EXP and AP.
-Gained EXP.
-Gained AP.
+Memperoleh EXP dan AP.
+Memperoleh EXP.
+Memperoleh AP.
 EXP
 AP
-Gained gil and item(s).
-Gained gil.
-Gained item(s).
-Gained gil
+Memperoleh gil dan item(s).
+Memperoleh gil.
+Memperoleh item(s).
+Memperoleh gil
 Gil
-Take everything.
-Exit
+Ambil semua.
+Keluar
 Item
-No items
+Tidak ada item
 x
 x
 x
 x
 x
 x
- gained.
- was born.
+ diperoleh.
+ lahir.
 {RED}{CHAR} LIMIT BREAK
 Area:
 Slot
-Growth
- is paralyzed.
+Peningkatan
+ lumpuh.
 Level:
-next level:
+Naik level:
  
-MP needed
-Stole {ITEM}!
-Couldn't steal anything…
-Nothing to steal.
-Pre-emptive Attack!
-Back Attack
-Side Attack!
-Attack from both sides!
-Can't escape!
-Select colors for each corner of the window
-Change the Sound Mode
-Set buttons yourself
-Save cursor when window is closed?
-Change battle time flow
-Change battle speed
-Change battle message speed
-Change field message speed
-Select battle screen movement
-Select magic placement
+Butuh MP
+Mencuri {ITEM}!
+Tidak bisa mencuri apa pun…
+Tidak ada yang dicuri.
+Serangan dadakan!
+Serangan belakang!
+Serangan samping!
+Serangn dua arah!
+Tidak bisa lari!
+Pilih warna untuk window
+Ubah Mode Suara
+Atur tombol sendiri
+Simpan cursor ketika window ditutup?
+Ubah battle time flow
+Ubah kecepatan battle 
+Ubah kecepatan pesan battle 
+Ubah kecepatan pesan field 
+Pilih gerakan layar battle
+Pilih penempatan Magic
 
 
 
