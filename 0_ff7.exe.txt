@@ -1,4 +1,4 @@
-Kamu mau intirahat
+Kamu mau istirahat
 dari bermain Final Fantasy VII
 dan kembali ke Windowsmu?
 Ya
@@ -24,8 +24,8 @@ Rekomendasi
 Tunggu
 Auto
 Fixed
-Lambat
-Cepat
+Lmbat
+Cpat
 Perintah Magic
 restore
 attack
@@ -468,9 +468,9 @@ Cid
 Choco
 Space
 Delete
-Select
+Pilih
 Default
-Cancel
+Batal
 A
 B
 C

@@ -126,7 +126,7 @@ Damage [Api/Es/Petir] ke semua musuh
 Damage sama dengan MaxHP/HP pengguna
 Damage tanpa elemen ke satu musuh
 Damage tanpa elemen ke satu musuh
-Menyebabkan [Kematian] pada level kelipatan 5
+Menyebabkan [Death] pada level kelipatan 5
 Mengucapkan vonis kematian pada satu musuh
 Mengucapkan kematian pada satu musuh atau sekutu
 Damage besar tanpa elemen ke satu musuh
@@ -193,9 +193,9 @@ Damage besar ke semua musuh, abaikan pertahanan
 {RED}Menyerang satu musuh  
 {RED}Menyerang satu musuh  
 {RED}Menyerang dan menyerap HP/MP dari satu musuh  
-{RED}Menyerang semua musuh, kadang menyebabkan [Kematian]  
+{RED}Menyerang semua musuh, kadang menyebabkan [Death]  
 {RED}Menyerang semua musuh  
-{RED}Menyerang terus-menerus, kadang menyebabkan [Kematian]  
+{RED}Menyerang terus-menerus, kadang menyebabkan [Death]  
 {RED}Menyerang semua musuh  
 {RED}Menimbulkan damage besar ke semua musuh  
 {RED}Menyerang satu musuh  
